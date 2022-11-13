@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 8c1eccfa4e73b77418f9c02d0567284a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: fly
+    100002: //RootNode
+    100004: FlyAntena_L1
+    100006: FlyAntena_L2
+    100008: FlyAntena_R1
+    100010: FlyAntena_R2
+    100012: FlyHead
+    100014: FlyHub001
+    100016: FlyLLeg031
+    100018: FlyLLeg032
+    100020: FlyLLeg03Ankle
+    100022: FlyLLeg03Collarbone
+    100024: FlyLLeg1
+    100026: FlyLLeg1 1
+    100028: FlyLLeg2
+    100030: FlyLLeg2 1
+    100032: FlyLLegAnkle
+    100034: FlyLLegAnkle 1
+    100036: FlyLLegCollarbone
+    100038: FlyLLegCollarbone 1
+    100040: FlyNeck
+    100042: FlyRLeg031
+    100044: FlyRLeg032
+    100046: FlyRLeg03Ankle
+    100048: FlyRLeg03Collarbone
+    100050: FlyRLeg1
+    100052: FlyRLeg1 1
+    100054: FlyRLeg2
+    100056: FlyRLeg2 1
+    100058: FlyRLegAnkle
+    100060: FlyRLegAnkle 1
+    100062: FlyRLegCollarbone
+    100064: FlyRLegCollarbone 1
+    100066: FlyTail1
+    100068: FlyTail2
+    100070: FlyWing_L1
+    100072: FlyWing_L2
+    100074: FlyWing_R1
+    100076: FlyWing_R2
+    100078: bee
+    100080: WaspAntena_L1
+    100082: WaspAntena_L2
+    100084: WaspAntena_R1
+    100086: WaspAntena_R2
+    100088: WaspHead
+    100090: WaspHub001
+    100092: WaspLLeg031
+    100094: WaspLLeg032
+    100096: WaspLLeg03Ankle
+    100098: WaspLLeg03Collarbone
+    100100: WaspLLeg1
+    100102: WaspLLeg1 1
+    100104: WaspLLeg2
+    100106: WaspLLeg2 1
+    100108: WaspLLegAnkle
+    100110: WaspLLegAnkle 1
+    100112: WaspLLegCollarbone
+    100114: WaspLLegCollarbone 1
+    100116: WaspNeck
+    100118: WaspRLeg031
+    100120: WaspRLeg032
+    100122: WaspRLeg03Ankle
+    100124: WaspRLeg03Collarbone
+    100126: WaspRLeg1
+    100128: WaspRLeg1 1
+    100130: WaspRLeg2
+    100132: WaspRLeg2 1
+    100134: WaspRLegAnkle
+    100136: WaspRLegAnkle 1
+    100138: WaspRLegCollarbone
+    100140: WaspRLegCollarbone 1
+    100142: WaspTail1
+    100144: WaspTail2
+    100146: WaspWing_L1
+    100148: WaspWing_L2
+    100150: WaspWing_R1
+    100152: WaspWing_R2
+    100154: bee_LOD0
+    100156: bee_LOD1
+    400000: //RootNode
+    400002: fly
+    400004: FlyAntena_L1
+    400006: FlyAntena_L2
+    400008: FlyAntena_R1
+    400010: FlyAntena_R2
+    400012: FlyHead
+    400014: FlyHub001
+    400016: FlyLLeg031
+    400018: FlyLLeg032
+    400020: FlyLLeg03Ankle
+    400022: FlyLLeg03Collarbone
+    400024: FlyLLeg1
+    400026: FlyLLeg1 1
+    400028: FlyLLeg2
+    400030: FlyLLeg2 1
+    400032: FlyLLegAnkle
+    400034: FlyLLegAnkle 1
+    400036: FlyLLegCollarbone
+    400038: FlyLLegCollarbone 1
+    400040: FlyNeck
+    400042: FlyRLeg031
+    400044: FlyRLeg032
+    400046: FlyRLeg03Ankle
+    400048: FlyRLeg03Collarbone
+    400050: FlyRLeg1
+    400052: FlyRLeg1 1
+    400054: FlyRLeg2
+    400056: FlyRLeg2 1
+    400058: FlyRLegAnkle
+    400060: FlyRLegAnkle 1
+    400062: FlyRLegCollarbone
+    400064: FlyRLegCollarbone 1
+    400066: FlyTail1
+    400068: FlyTail2
+    400070: FlyWing_L1
+    400072: FlyWing_L2
+    400074: FlyWing_R1
+    400076: FlyWing_R2
+    400078: bee
+    400080: WaspAntena_L1
+    400082: WaspAntena_L2
+    400084: WaspAntena_R1
+    400086: WaspAntena_R2
+    400088: WaspHead
+    400090: WaspHub001
+    400092: WaspLLeg031
+    400094: WaspLLeg032
+    400096: WaspLLeg03Ankle
+    400098: WaspLLeg03Collarbone
+    400100: WaspLLeg1
+    400102: WaspLLeg1 1
+    400104: WaspLLeg2
+    400106: WaspLLeg2 1
+    400108: WaspLLegAnkle
+    400110: WaspLLegAnkle 1
+    400112: WaspLLegCollarbone
+    400114: WaspLLegCollarbone 1
+    400116: WaspNeck
+    400118: WaspRLeg031
+    400120: WaspRLeg032
+    400122: WaspRLeg03Ankle
+    400124: WaspRLeg03Collarbone
+    400126: WaspRLeg1
+    400128: WaspRLeg1 1
+    400130: WaspRLeg2
+    400132: WaspRLeg2 1
+    400134: WaspRLegAnkle
+    400136: WaspRLegAnkle 1
+    400138: WaspRLegCollarbone
+    400140: WaspRLegCollarbone 1
+    400142: WaspTail1
+    400144: WaspTail2
+    400146: WaspWing_L1
+    400148: WaspWing_L2
+    400150: WaspWing_R1
+    400152: WaspWing_R2
+    400154: bee_LOD0
+    400156: bee_LOD1
+    4300000: fly
+    4300002: bee
+    4300004: bee_LOD0
+    4300006: bee_LOD1
+    7400000: fly
+    7400002: idle
+    7400004: death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: fly
+    13700002: bee
+    13700004: bee_LOD0
+    13700006: bee_LOD1
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .00999999978
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
