@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 7412f4a213f6c81418e758ed49e379d7
+timeCreated: 1429719877
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Antepecho
+    100002: Apto-Floor
+    100004: Bathroom-Window
+    100006: Bed
+    100008: Bed 1
+    100010: Bed_01
+    100012: BedStair
+    100014: BedStair 1
+    100016: Box001
+    100018: Bulb
+    100020: cenefa
+    100022: Cerradura
+    100024: Cerradura001
+    100026: CerraduraInt01
+    100028: CerraduraInt02
+    100030: Chair-001
+    100032: Chair-002
+    100034: //RootNode
+    100036: Corridor-Floor
+    100038: Corridor-walls
+    100040: Couch
+    100042: CsWindow_Hall_001
+    100044: CsWindow_Hall_001 1
+    100046: CsWindow_Hall_002
+    100048: CsWindow_Hall_003
+    100050: CsWindow_Hall_004
+    100052: CsWindow_Hall_005
+    100054: CsWindow_Hall_006
+    100056: CsWindow_Hall_007
+    100058: CsWindow_Hall_008
+    100060: CsWindow_Hall_009
+    100062: D-Bed-01
+    100064: D-Bed-01 1
+    100066: D-Bed-02
+    100068: D-Bed-03
+    100070: D-Bed-04
+    100072: Door
+    100074: Dren-Steel
+    100076: Ducha
+    100078: Exterior-Walls
+    100080: Exterior-Walls001
+    100082: Exterior-Walls002
+    100084: Exterior-Walls003
+    100086: Exterior-Walls004
+    100088: Fachada
+    100090: Fachada001
+    100092: Fachada002
+    100094: Fachada003
+    100096: Fachada004
+    100098: FontWindow
+    100100: FontWindow001
+    100102: FontWindow002
+    100104: FontWindow003
+    100106: FontWindow004
+    100108: Fregadero
+    100110: FrontWindow
+    100112: FrontWindow 1
+    100114: FrontWindow001
+    100116: FrontWindow002
+    100118: FrontWindow003
+    100120: FrontWindow004
+    100122: FrontWindow005
+    100124: FrontWindow006
+    100126: FrontWindow007
+    100128: FrontWindow008
+    100130: Gaveta-Cama_02.01
+    100132: Gaveta-Cama_03
+    100134: Glass
+    100136: Glass001
+    100138: Glass001 1
+    100140: Glass002
+    100142: Glass003
+    100144: Glass004
+    100146: Glass005
+    100148: Glass006
+    100150: Glass007
+    100152: Glass008
+    100154: Glass009
+    100156: Glass010
+    100158: Glass011
+    100160: Glass012
+    100162: Glass013
+    100164: Glass014
+    100166: Grifo-Steel
+    100168: Grifo-Steel001
+    100170: HDTV
+    100172: HDTV 1
+    100174: Kitchen-Mueble
+    100176: Kitchen-Puerta_Der
+    100178: Kitchen-Puerta_Der 1
+    100180: Kitchen-Puerta_Izq
+    100182: Kitchen-Puerta_Izq 1
+    100184: Kitchen-Puertas
+    100186: Ktichen-Tope
+    100188: LAMP
+    100190: Lamp
+    100192: "Lampara-Ba\xF1o"
+    100194: "Lampara-Ba\xF1o_Base"
+    100196: "Lampara-Ba\xF1o_Pantalla"
+    100198: LampBlubs_001
+    100200: LampBlubs_002
+    100202: LampBlubs_003
+    100204: Lapm-Glass_001
+    100206: Lapm-Glass_002
+    100208: Lapm-Glass_003
+    100210: Lapm_001
+    100212: Lapm_002
+    100214: Lapm_002 1
+    100216: Lapm_002 1_MeshPart0
+    100218: Lapm_002 1_MeshPart1
+    100220: Lapm_002 1_MeshPart2
+    100222: Lapm_003
+    100224: Lapm_004
+    100226: Lapm_004_MeshPart0
+    100228: Lapm_004_MeshPart1
+    100230: Lapm_004_MeshPart2
+    100232: Lapm_01
+    100234: Lapm_01_MeshPart0
+    100236: Lapm_01_MeshPart1
+    100238: Lapm_01_MeshPart2
+    100240: Lavamanos
+    100242: Lavamanos 1
+    100244: Layer:Exp
+    100246: MainDoor
+    100248: MainDoor 1
+    100250: MainDoor001
+    100252: MainDoorFrame
+    100254: MainWindow
+    100256: MainWindow 1
+    100258: MainWindow001
+    100260: MainWindow002
+    100262: MainWindow003
+    100264: MainWindow004
+    100266: MainWindow005
+    100268: MainWindow006
+    100270: MainWindow007
+    100272: MainWindow008
+    100274: Mirorr
+    100276: "Mueble-Ba\xF1o"
+    100278: "Mueble-Ba\xF1o_P1"
+    100280: "Mueble-Ba\xF1o_P1 1"
+    100282: "Mueble-Ba\xF1o_P2"
+    100284: "Mueble-Ba\xF1o_P2 1"
+    100286: Object001
+    100288: "Paredes-Ba\xF1o"
+    100290: Pillow
+    100292: "Piso-Ba\xF1o"
+    100294: PivotDoor001
+    100296: PivotDoor002
+    100298: PivotDoor003
+    100300: PivotDoor004
+    100302: Plane004
+    100304: Plane006
+    100306: Pomo-Steel_001
+    100308: Pomo-Steel_002
+    100310: Pomo-Steel_003
+    100312: Pomo-Steel_004
+    100314: Pomo-Steel_005
+    100316: Pomo-Steel_006
+    100318: Pomo-Steel_007
+    100320: Pomo-Steel_008
+    100322: Pomo-Steel_009
+    100324: Pomo-Steel_010
+    100326: "Puerta-Ba\xF1o-Tope"
+    100328: "Puerta-Ba\xF1o001"
+    100330: Puertas-Cama_01
+    100332: Puertas-Cama_01 1
+    100334: Puertas-Cama_02
+    100336: Puertas-Cama_02.01
+    100338: Puertas-Cama_02.01 1
+    100340: Puertas-Cama_02.02
+    100342: Puertas-Cama_03
+    100344: Puertas-Cama_03 1
+    100346: Puertas-Cama_04
+    100348: Puertas-Cama_04 1
+    100350: Riel_003
+    100352: Riel_01
+    100354: Riel_02
+    100356: Rodapie
+    100358: Screen
+    100360: SecondDoor
+    100362: Shape001
+    100364: SlidingWindow001
+    100366: Steel
+    100368: Steel 1
+    100370: SteelBar
+    100372: SteelBar002
+    100374: SteelWeels_001
+    100376: SteelWeels_001 1
+    100378: SteelWeels_002
+    100380: SteelWeels_003
+    100382: SteelWeels_004
+    100384: SteelWeels_005
+    100386: SteelWeels_006
+    100388: SteelWeels_007
+    100390: Table
+    100392: Table 1
+    100394: Techo
+    100396: Top-Riel
+    100398: Tope
+    100400: Tope-Puerta_01
+    100402: Tope-Puerta_02
+    100404: Tope-Puerta_02.01
+    100406: Tope-Puerta_02.02
+    100408: Tope-Puertas
+    100410: Walls
+    100412: WC
+    100414: WC_MeshPart0
+    100416: WC_MeshPart1
+    100418: Weel_001
+    100420: Weel_002
+    100422: Weel_003
+    100424: Weel_004
+    400000: Antepecho
+    400002: Apto-Floor
+    400004: Bathroom-Window
+    400006: Bed
+    400008: Bed 1
+    400010: Bed_01
+    400012: BedStair
+    400014: BedStair 1
+    400016: Box001
+    400018: Bulb
+    400020: cenefa
+    400022: Cerradura
+    400024: Cerradura001
+    400026: CerraduraInt01
+    400028: CerraduraInt02
+    400030: Chair-001
+    400032: Chair-002
+    400034: //RootNode
+    400036: Corridor-Floor
+    400038: Corridor-walls
+    400040: Couch
+    400042: CsWindow_Hall_001
+    400044: CsWindow_Hall_001 1
+    400046: CsWindow_Hall_002
+    400048: CsWindow_Hall_003
+    400050: CsWindow_Hall_004
+    400052: CsWindow_Hall_005
+    400054: CsWindow_Hall_006
+    400056: CsWindow_Hall_007
+    400058: CsWindow_Hall_008
+    400060: CsWindow_Hall_009
+    400062: D-Bed-01
+    400064: D-Bed-01 1
+    400066: D-Bed-02
+    400068: D-Bed-03
+    400070: D-Bed-04
+    400072: Door
+    400074: Dren-Steel
+    400076: Ducha
+    400078: Exterior-Walls
+    400080: Exterior-Walls001
+    400082: Exterior-Walls002
+    400084: Exterior-Walls003
+    400086: Exterior-Walls004
+    400088: Fachada
+    400090: Fachada001
+    400092: Fachada002
+    400094: Fachada003
+    400096: Fachada004
+    400098: FontWindow
+    400100: FontWindow001
+    400102: FontWindow002
+    400104: FontWindow003
+    400106: FontWindow004
+    400108: Fregadero
+    400110: FrontWindow
+    400112: FrontWindow 1
+    400114: FrontWindow001
+    400116: FrontWindow002
+    400118: FrontWindow003
+    400120: FrontWindow004
+    400122: FrontWindow005
+    400124: FrontWindow006
+    400126: FrontWindow007
+    400128: FrontWindow008
+    400130: Gaveta-Cama_02.01
+    400132: Gaveta-Cama_03
+    400134: Glass
+    400136: Glass001
+    400138: Glass001 1
+    400140: Glass002
+    400142: Glass003
+    400144: Glass004
+    400146: Glass005
+    400148: Glass006
+    400150: Glass007
+    400152: Glass008
+    400154: Glass009
+    400156: Glass010
+    400158: Glass011
+    400160: Glass012
+    400162: Glass013
+    400164: Glass014
+    400166: Grifo-Steel
+    400168: Grifo-Steel001
+    400170: HDTV
+    400172: HDTV 1
+    400174: Kitchen-Mueble
+    400176: Kitchen-Puerta_Der
+    400178: Kitchen-Puerta_Der 1
+    400180: Kitchen-Puerta_Izq
+    400182: Kitchen-Puerta_Izq 1
+    400184: Kitchen-Puertas
+    400186: Ktichen-Tope
+    400188: LAMP
+    400190: Lamp
+    400192: "Lampara-Ba\xF1o"
+    400194: "Lampara-Ba\xF1o_Base"
+    400196: "Lampara-Ba\xF1o_Pantalla"
+    400198: LampBlubs_001
+    400200: LampBlubs_002
+    400202: LampBlubs_003
+    400204: Lapm-Glass_001
+    400206: Lapm-Glass_002
+    400208: Lapm-Glass_003
+    400210: Lapm_001
+    400212: Lapm_002
+    400214: Lapm_002 1
+    400216: Lapm_002 1_MeshPart0
+    400218: Lapm_002 1_MeshPart1
+    400220: Lapm_002 1_MeshPart2
+    400222: Lapm_003
+    400224: Lapm_004
+    400226: Lapm_004_MeshPart0
+    400228: Lapm_004_MeshPart1
+    400230: Lapm_004_MeshPart2
+    400232: Lapm_01
+    400234: Lapm_01_MeshPart0
+    400236: Lapm_01_MeshPart1
+    400238: Lapm_01_MeshPart2
+    400240: Lavamanos
+    400242: Lavamanos 1
+    400244: Layer:Exp
+    400246: MainDoor
+    400248: MainDoor 1
+    400250: MainDoor001
+    400252: MainDoorFrame
+    400254: MainWindow
+    400256: MainWindow 1
+    400258: MainWindow001
+    400260: MainWindow002
+    400262: MainWindow003
+    400264: MainWindow004
+    400266: MainWindow005
+    400268: MainWindow006
+    400270: MainWindow007
+    400272: MainWindow008
+    400274: Mirorr
+    400276: "Mueble-Ba\xF1o"
+    400278: "Mueble-Ba\xF1o_P1"
+    400280: "Mueble-Ba\xF1o_P1 1"
+    400282: "Mueble-Ba\xF1o_P2"
+    400284: "Mueble-Ba\xF1o_P2 1"
+    400286: Object001
+    400288: "Paredes-Ba\xF1o"
+    400290: Pillow
+    400292: "Piso-Ba\xF1o"
+    400294: PivotDoor001
+    400296: PivotDoor002
+    400298: PivotDoor003
+    400300: PivotDoor004
+    400302: Plane004
+    400304: Plane006
+    400306: Pomo-Steel_001
+    400308: Pomo-Steel_002
+    400310: Pomo-Steel_003
+    400312: Pomo-Steel_004
+    400314: Pomo-Steel_005
+    400316: Pomo-Steel_006
+    400318: Pomo-Steel_007
+    400320: Pomo-Steel_008
+    400322: Pomo-Steel_009
+    400324: Pomo-Steel_010
+    400326: "Puerta-Ba\xF1o-Tope"
+    400328: "Puerta-Ba\xF1o001"
+    400330: Puertas-Cama_01
+    400332: Puertas-Cama_01 1
+    400334: Puertas-Cama_02
+    400336: Puertas-Cama_02.01
+    400338: Puertas-Cama_02.01 1
+    400340: Puertas-Cama_02.02
+    400342: Puertas-Cama_03
+    400344: Puertas-Cama_03 1
+    400346: Puertas-Cama_04
+    400348: Puertas-Cama_04 1
+    400350: Riel_003
+    400352: Riel_01
+    400354: Riel_02
+    400356: Rodapie
+    400358: Screen
+    400360: SecondDoor
+    400362: Shape001
+    400364: SlidingWindow001
+    400366: Steel
+    400368: Steel 1
+    400370: SteelBar
+    400372: SteelBar002
+    400374: SteelWeels_001
+    400376: SteelWeels_001 1
+    400378: SteelWeels_002
+    400380: SteelWeels_003
+    400382: SteelWeels_004
+    400384: SteelWeels_005
+    400386: SteelWeels_006
+    400388: SteelWeels_007
+    400390: Table
+    400392: Table 1
+    400394: Techo
+    400396: Top-Riel
+    400398: Tope
+    400400: Tope-Puerta_01
+    400402: Tope-Puerta_02
+    400404: Tope-Puerta_02.01
+    400406: Tope-Puerta_02.02
+    400408: Tope-Puertas
+    400410: Walls
+    400412: WC
+    400414: WC_MeshPart0
+    400416: WC_MeshPart1
+    400418: Weel_001
+    400420: Weel_002
+    400422: Weel_003
+    400424: Weel_004
+    2300000: Antepecho
+    2300002: Apto-Floor
+    2300004: Bed
+    2300006: Bed_01
+    2300008: BedStair 1
+    2300010: Box001
+    2300012: Bulb
+    2300014: cenefa
+    2300016: Cerradura
+    2300018: Cerradura001
+    2300020: CerraduraInt01
+    2300022: CerraduraInt02
+    2300024: Chair-001
+    2300026: Chair-002
+    2300028: Corridor-Floor
+    2300030: Corridor-walls
+    2300032: Couch
+    2300034: CsWindow_Hall_001 1
+    2300036: CsWindow_Hall_002
+    2300038: CsWindow_Hall_004
+    2300040: CsWindow_Hall_007
+    2300042: CsWindow_Hall_008
+    2300044: D-Bed-01 1
+    2300046: D-Bed-02
+    2300048: D-Bed-03
+    2300050: D-Bed-04
+    2300052: Dren-Steel
+    2300054: Ducha
+    2300056: Exterior-Walls
+    2300058: Exterior-Walls001
+    2300060: Exterior-Walls002
+    2300062: Exterior-Walls003
+    2300064: Exterior-Walls004
+    2300066: Fregadero
+    2300068: FrontWindow 1
+    2300070: FrontWindow002
+    2300072: FrontWindow004
+    2300074: FrontWindow006
+    2300076: FrontWindow008
+    2300078: Gaveta-Cama_02.01
+    2300080: Gaveta-Cama_03
+    2300082: Glass
+    2300084: Glass001
+    2300086: Glass001 1
+    2300088: Glass002
+    2300090: Glass003
+    2300092: Glass004
+    2300094: Glass005
+    2300096: Glass006
+    2300098: Glass007
+    2300100: Glass008
+    2300102: Glass009
+    2300104: Glass010
+    2300106: Glass011
+    2300108: Glass012
+    2300110: Glass013
+    2300112: Glass014
+    2300114: Grifo-Steel
+    2300116: Grifo-Steel001
+    2300118: HDTV 1
+    2300120: Kitchen-Mueble
+    2300122: Kitchen-Puerta_Der 1
+    2300124: Kitchen-Puerta_Izq 1
+    2300126: Ktichen-Tope
+    2300128: LAMP
+    2300130: "Lampara-Ba\xF1o_Base"
+    2300132: "Lampara-Ba\xF1o_Pantalla"
+    2300134: LampBlubs_001
+    2300136: LampBlubs_002
+    2300138: LampBlubs_003
+    2300140: Lapm-Glass_001
+    2300142: Lapm-Glass_002
+    2300144: Lapm-Glass_003
+    2300146: Lapm_002 1_MeshPart0
+    2300148: Lapm_002 1_MeshPart1
+    2300150: Lapm_002 1_MeshPart2
+    2300152: Lapm_004_MeshPart0
+    2300154: Lapm_004_MeshPart1
+    2300156: Lapm_004_MeshPart2
+    2300158: Lapm_01_MeshPart0
+    2300160: Lapm_01_MeshPart1
+    2300162: Lapm_01_MeshPart2
+    2300164: Lavamanos 1
+    2300166: MainDoor 1
+    2300168: MainDoor001
+    2300170: MainWindow 1
+    2300172: MainWindow002
+    2300174: MainWindow004
+    2300176: MainWindow006
+    2300178: MainWindow008
+    2300180: Mirorr
+    2300182: "Mueble-Ba\xF1o"
+    2300184: "Mueble-Ba\xF1o_P1 1"
+    2300186: "Mueble-Ba\xF1o_P2 1"
+    2300188: Object001
+    2300190: "Paredes-Ba\xF1o"
+    2300192: Pillow
+    2300194: "Piso-Ba\xF1o"
+    2300196: PivotDoor001
+    2300198: PivotDoor002
+    2300200: PivotDoor003
+    2300202: PivotDoor004
+    2300204: Plane004
+    2300206: Plane006
+    2300208: Pomo-Steel_001
+    2300210: Pomo-Steel_002
+    2300212: Pomo-Steel_003
+    2300214: Pomo-Steel_004
+    2300216: Pomo-Steel_005
+    2300218: Pomo-Steel_006
+    2300220: Pomo-Steel_007
+    2300222: Pomo-Steel_008
+    2300224: Pomo-Steel_009
+    2300226: Pomo-Steel_010
+    2300228: "Puerta-Ba\xF1o-Tope"
+    2300230: Puertas-Cama_01 1
+    2300232: Puertas-Cama_02.01 1
+    2300234: Puertas-Cama_02.02
+    2300236: Puertas-Cama_03 1
+    2300238: Puertas-Cama_04 1
+    2300240: Riel_003
+    2300242: Riel_01
+    2300244: Riel_02
+    2300246: Rodapie
+    2300248: Screen
+    2300250: SlidingWindow001
+    2300252: Steel
+    2300254: Steel 1
+    2300256: SteelBar
+    2300258: SteelBar002
+    2300260: SteelWeels_001 1
+    2300262: SteelWeels_002
+    2300264: SteelWeels_004
+    2300266: SteelWeels_007
+    2300268: Table 1
+    2300270: Techo
+    2300272: Top-Riel
+    2300274: Tope-Puerta_01
+    2300276: Tope-Puerta_02.01
+    2300278: Tope-Puerta_02.02
+    2300280: Walls
+    2300282: WC_MeshPart0
+    2300284: WC_MeshPart1
+    2300286: Weel_001
+    2300288: Weel_002
+    2300290: Weel_003
+    2300292: Weel_004
+    3300000: Antepecho
+    3300002: Apto-Floor
+    3300004: Bed
+    3300006: Bed_01
+    3300008: BedStair 1
+    3300010: Box001
+    3300012: Bulb
+    3300014: cenefa
+    3300016: Cerradura
+    3300018: Cerradura001
+    3300020: CerraduraInt01
+    3300022: CerraduraInt02
+    3300024: Chair-001
+    3300026: Chair-002
+    3300028: Corridor-Floor
+    3300030: Corridor-walls
+    3300032: Couch
+    3300034: CsWindow_Hall_001 1
+    3300036: CsWindow_Hall_002
+    3300038: CsWindow_Hall_004
+    3300040: CsWindow_Hall_007
+    3300042: CsWindow_Hall_008
+    3300044: D-Bed-01 1
+    3300046: D-Bed-02
+    3300048: D-Bed-03
+    3300050: D-Bed-04
+    3300052: Dren-Steel
+    3300054: Ducha
+    3300056: Exterior-Walls
+    3300058: Exterior-Walls001
+    3300060: Exterior-Walls002
+    3300062: Exterior-Walls003
+    3300064: Exterior-Walls004
+    3300066: Fregadero
+    3300068: FrontWindow 1
+    3300070: FrontWindow002
+    3300072: FrontWindow004
+    3300074: FrontWindow006
+    3300076: FrontWindow008
+    3300078: Gaveta-Cama_02.01
+    3300080: Gaveta-Cama_03
+    3300082: Glass
+    3300084: Glass001
+    3300086: Glass001 1
+    3300088: Glass002
+    3300090: Glass003
+    3300092: Glass004
+    3300094: Glass005
+    3300096: Glass006
+    3300098: Glass007
+    3300100: Glass008
+    3300102: Glass009
+    3300104: Glass010
+    3300106: Glass011
+    3300108: Glass012
+    3300110: Glass013
+    3300112: Glass014
+    3300114: Grifo-Steel
+    3300116: Grifo-Steel001
+    3300118: HDTV 1
+    3300120: Kitchen-Mueble
+    3300122: Kitchen-Puerta_Der 1
+    3300124: Kitchen-Puerta_Izq 1
+    3300126: Ktichen-Tope
+    3300128: LAMP
+    3300130: "Lampara-Ba\xF1o_Base"
+    3300132: "Lampara-Ba\xF1o_Pantalla"
+    3300134: LampBlubs_001
+    3300136: LampBlubs_002
+    3300138: LampBlubs_003
+    3300140: Lapm-Glass_001
+    3300142: Lapm-Glass_002
+    3300144: Lapm-Glass_003
+    3300146: Lapm_002 1_MeshPart0
+    3300148: Lapm_002 1_MeshPart1
+    3300150: Lapm_002 1_MeshPart2
+    3300152: Lapm_004_MeshPart0
+    3300154: Lapm_004_MeshPart1
+    3300156: Lapm_004_MeshPart2
+    3300158: Lapm_01_MeshPart0
+    3300160: Lapm_01_MeshPart1
+    3300162: Lapm_01_MeshPart2
+    3300164: Lavamanos 1
+    3300166: MainDoor 1
+    3300168: MainDoor001
+    3300170: MainWindow 1
+    3300172: MainWindow002
+    3300174: MainWindow004
+    3300176: MainWindow006
+    3300178: MainWindow008
+    3300180: Mirorr
+    3300182: "Mueble-Ba\xF1o"
+    3300184: "Mueble-Ba\xF1o_P1 1"
+    3300186: "Mueble-Ba\xF1o_P2 1"
+    3300188: Object001
+    3300190: "Paredes-Ba\xF1o"
+    3300192: Pillow
+    3300194: "Piso-Ba\xF1o"
+    3300196: PivotDoor001
+    3300198: PivotDoor002
+    3300200: PivotDoor003
+    3300202: PivotDoor004
+    3300204: Plane004
+    3300206: Plane006
+    3300208: Pomo-Steel_001
+    3300210: Pomo-Steel_002
+    3300212: Pomo-Steel_003
+    3300214: Pomo-Steel_004
+    3300216: Pomo-Steel_005
+    3300218: Pomo-Steel_006
+    3300220: Pomo-Steel_007
+    3300222: Pomo-Steel_008
+    3300224: Pomo-Steel_009
+    3300226: Pomo-Steel_010
+    3300228: "Puerta-Ba\xF1o-Tope"
+    3300230: Puertas-Cama_01 1
+    3300232: Puertas-Cama_02.01 1
+    3300234: Puertas-Cama_02.02
+    3300236: Puertas-Cama_03 1
+    3300238: Puertas-Cama_04 1
+    3300240: Riel_003
+    3300242: Riel_01
+    3300244: Riel_02
+    3300246: Rodapie
+    3300248: Screen
+    3300250: SlidingWindow001
+    3300252: Steel
+    3300254: Steel 1
+    3300256: SteelBar
+    3300258: SteelBar002
+    3300260: SteelWeels_001 1
+    3300262: SteelWeels_002
+    3300264: SteelWeels_004
+    3300266: SteelWeels_007
+    3300268: Table 1
+    3300270: Techo
+    3300272: Top-Riel
+    3300274: Tope-Puerta_01
+    3300276: Tope-Puerta_02.01
+    3300278: Tope-Puerta_02.02
+    3300280: Walls
+    3300282: WC_MeshPart0
+    3300284: WC_MeshPart1
+    3300286: Weel_001
+    3300288: Weel_002
+    3300290: Weel_003
+    3300292: Weel_004
+    4300000: Techo
+    4300002: Walls
+    4300004: Bed
+    4300006: Kitchen-Mueble
+    4300008: Tope-Puerta_01
+    4300010: Ktichen-Tope
+    4300012: "Puerta-Ba\xF1o-Tope"
+    4300014: D-Bed-02
+    4300016: D-Bed-03
+    4300018: D-Bed-04
+    4300020: Box001
+    4300022: "Paredes-Ba\xF1o"
+    4300024: Apto-Floor
+    4300026: "Piso-Ba\xF1o"
+    4300028: Top-Riel
+    4300030: Glass
+    4300032: SlidingWindow001
+    4300034: Tope-Puerta_02.01
+    4300036: Tope-Puerta_02.02
+    4300038: Fregadero
+    4300040: Table
+    4300042: Puertas-Cama_02.02
+    4300044: Chair-001
+    4300046: Riel_01
+    4300048: Riel_02
+    4300050: Riel_003
+    4300052: SteelBar
+    4300054: Pomo-Steel_001
+    4300056: Chair-002
+    4300058: Pomo-Steel_002
+    4300060: Plane004
+    4300062: Plane006
+    4300064: Gaveta-Cama_02.01
+    4300066: Puertas-Cama_02.01
+    4300068: Gaveta-Cama_03
+    4300070: Puertas-Cama_03
+    4300072: Pomo-Steel_003
+    4300074: SteelBar002
+    4300076: Puertas-Cama_04
+    4300078: Pomo-Steel_004
+    4300080: SteelWeels_001
+    4300082: Weel_001
+    4300084: SteelWeels_002
+    4300086: Weel_002
+    4300088: SteelWeels_004
+    4300090: Weel_003
+    4300092: Weel_004
+    4300094: SteelWeels_007
+    4300096: BedStair
+    4300098: Steel
+    4300100: D-Bed-01
+    4300102: Puertas-Cama_01
+    4300104: Pomo-Steel_005
+    4300106: Pomo-Steel_006
+    4300108: Object001
+    4300110: Kitchen-Puerta_Izq
+    4300112: Pomo-Steel_007
+    4300114: Kitchen-Puerta_Der
+    4300116: Pomo-Steel_008
+    4300118: Ducha
+    4300120: "Mueble-Ba\xF1o"
+    4300122: "Mueble-Ba\xF1o_P2"
+    4300124: Pomo-Steel_009
+    4300126: "Mueble-Ba\xF1o_P1"
+    4300128: Pomo-Steel_010
+    4300130: Mirorr
+    4300132: Dren-Steel
+    4300134: WC_MeshPart0
+    4300136: WC_MeshPart1
+    4300138: Pillow
+    4300140: Couch
+    4300142: Bed_01
+    4300144: Lavamanos
+    4300146: Grifo-Steel
+    4300148: Steel
+    4300150: PivotDoor001
+    4300152: CerraduraInt02
+    4300154: MainDoor
+    4300156: Cerradura
+    4300158: CerraduraInt01
+    4300160: PivotDoor002
+    4300162: Cerradura001
+    4300164: MainDoor001
+    4300166: Rodapie
+    4300168: Corridor-Floor
+    4300170: Corridor-walls
+    4300172: cenefa
+    4300174: CsWindow_Hall_001
+    4300176: Glass001
+    4300178: Exterior-Walls
+    4300180: FrontWindow
+    4300182: Glass002
+    4300184: MainWindow
+    4300186: Glass001
+    4300188: LAMP
+    4300190: Bulb
+    4300192: HDTV
+    4300194: Screen
+    4300196: Grifo-Steel001
+    4300198: PivotDoor003
+    4300200: CsWindow_Hall_002
+    4300202: Glass003
+    4300204: Exterior-Walls001
+    4300206: FrontWindow002
+    4300208: Glass004
+    4300210: MainWindow002
+    4300212: Glass005
+    4300214: CsWindow_Hall_004
+    4300216: Glass006
+    4300218: Exterior-Walls002
+    4300220: FrontWindow004
+    4300222: Glass007
+    4300224: MainWindow004
+    4300226: Glass008
+    4300228: Exterior-Walls003
+    4300230: CsWindow_Hall_007
+    4300232: Glass009
+    4300234: FrontWindow006
+    4300236: Glass010
+    4300238: MainWindow006
+    4300240: Glass011
+    4300242: CsWindow_Hall_008
+    4300244: Glass012
+    4300246: Exterior-Walls004
+    4300248: FrontWindow008
+    4300250: Glass013
+    4300252: MainWindow008
+    4300254: Glass014
+    4300256: PivotDoor004
+    4300258: LampBlubs_001
+    4300260: Lapm-Glass_001
+    4300262: Lapm_01_MeshPart0
+    4300264: Lapm_01_MeshPart1
+    4300266: Lapm_01_MeshPart2
+    4300268: LampBlubs_002
+    4300270: Lapm-Glass_002
+    4300272: Lapm_002_MeshPart0
+    4300274: Lapm_002_MeshPart1
+    4300276: Lapm_002_MeshPart2
+    4300278: Lapm-Glass_003
+    4300280: LampBlubs_003
+    4300282: Lapm_004_MeshPart0
+    4300284: Lapm_004_MeshPart1
+    4300286: Lapm_004_MeshPart2
+    4300288: Antepecho
+    4300290: "Lampara-Ba\xF1o_Base"
+    4300292: "Lampara-Ba\xF1o_Pantalla"
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,83 @@
+fileFormatVersion: 2
+guid: c36116f2607ced141a466beed0e6a1f2
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: car76
+    100004: rueda002
+    100006: rueda003
+    100008: rueda004
+    100010: rueda01
+    400000: //RootNode
+    400002: car76
+    400004: rueda002
+    400006: rueda003
+    400008: rueda004
+    400010: rueda01
+    2300000: car76
+    2300002: rueda002
+    2300004: rueda003
+    2300006: rueda004
+    2300008: rueda01
+    3300000: car76
+    3300002: rueda002
+    3300004: rueda003
+    3300006: rueda004
+    3300008: rueda01
+    4300000: rueda002
+    4300002: rueda01
+    4300004: rueda003
+    4300006: rueda004
+    4300008: car76
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .379999995
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
