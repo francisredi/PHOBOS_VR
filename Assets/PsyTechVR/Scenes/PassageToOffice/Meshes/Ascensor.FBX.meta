@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: 6422431eaf4d4fa41ac0f29be6a230a4
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ascensor
+    100004: Ascensor 1
+    100006: Ascensor_puerta003
+    100008: Ascensor_puerta004
+    100010: Ascensor_puerta01
+    100012: Ascensor_puerta02
+    100014: MarcoparedAscensor
+    400000: //RootNode
+    400002: Ascensor
+    400004: Ascensor 1
+    400006: Ascensor_puerta003
+    400008: Ascensor_puerta004
+    400010: Ascensor_puerta01
+    400012: Ascensor_puerta02
+    400014: MarcoparedAscensor
+    2300000: Ascensor 1
+    2300002: Ascensor_puerta003
+    2300004: Ascensor_puerta004
+    2300006: Ascensor_puerta01
+    2300008: Ascensor_puerta02
+    2300010: MarcoparedAscensor
+    3300000: Ascensor 1
+    3300002: Ascensor_puerta003
+    3300004: Ascensor_puerta004
+    3300006: Ascensor_puerta01
+    3300008: Ascensor_puerta02
+    3300010: MarcoparedAscensor
+    4300000: Ascensor
+    4300002: Ascensor_puerta01
+    4300004: Ascensor_puerta02
+    4300006: Ascensor_puerta003
+    4300008: Ascensor_puerta004
+    4300010: MarcoparedAscensor
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
