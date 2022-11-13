@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &141580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 498946}
+  - 33: {fileID: 3380996}
+  - 23: {fileID: 2323666}
+  - 64: {fileID: 6413750}
+  m_Layer: 16
+  m_Name: bajadaSubte001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &498946
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141580}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+  m_LocalPosition: {x: -49.794495, y: 2.1190186, z: 67.70886}
+  m_LocalScale: {x: 1.338625, y: 1.338625, z: 1.9}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!23 &2323666
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141580}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: b23f7a9a51cee1143aa449460c38bd35, type: 2}
+  - {fileID: 2100000, guid: 7350cebee344a4547abbb23c572b5992, type: 2}
+  - {fileID: 2100000, guid: a3f23b14e3f9f974e8141456b19a8659, type: 2}
+  - {fileID: 2100000, guid: 03c7c702b8787154f91c94d6e152e6ed, type: 2}
+  - {fileID: 2100000, guid: af3617562ce6bfe49ab681977a5f4d38, type: 2}
+  - {fileID: 2100000, guid: 03c7c702b8787154f91c94d6e152e6ed, type: 2}
+  - {fileID: 2100000, guid: 8adacc56701570046b3f4239f03ac4bb, type: 2}
+  - {fileID: 2100000, guid: 768611418f558ab4497d71bb4b058a2e, type: 2}
+  - {fileID: 2100000, guid: 8522d53ac67a54c4c96189d7033d441e, type: 2}
+  - {fileID: 2100000, guid: 2a3da207d882ab8429cf13e8d0318e51, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &3380996
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141580}
+  m_Mesh: {fileID: 4300184, guid: 337333c69d043c24f8f21176fec65cf5, type: 3}
+--- !u!64 &6413750
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141580}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_Mesh: {fileID: 4300184, guid: 337333c69d043c24f8f21176fec65cf5, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 141580}
+  m_IsPrefabParent: 1

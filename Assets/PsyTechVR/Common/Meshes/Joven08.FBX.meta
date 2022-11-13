@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 4723487b3f539424c992ef17dfd81082
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: CMan0008-Bip
+    100002: CMan0008-Footsteps
+    100004: CMan0008-Head
+    100006: CMan0008-HeadNub
+    100008: CMan0008-L Calf
+    100010: CMan0008-L Clavicle
+    100012: CMan0008-L Finger0
+    100014: CMan0008-L Finger01
+    100016: CMan0008-L Finger02
+    100018: CMan0008-L Finger0Nub
+    100020: CMan0008-L Finger1
+    100022: CMan0008-L Finger11
+    100024: CMan0008-L Finger12
+    100026: CMan0008-L Finger1Nub
+    100028: CMan0008-L Finger2
+    100030: CMan0008-L Finger21
+    100032: CMan0008-L Finger22
+    100034: CMan0008-L Finger2Nub
+    100036: CMan0008-L Finger3
+    100038: CMan0008-L Finger31
+    100040: CMan0008-L Finger32
+    100042: CMan0008-L Finger3Nub
+    100044: CMan0008-L Finger4
+    100046: CMan0008-L Finger41
+    100048: CMan0008-L Finger42
+    100050: CMan0008-L Finger4Nub
+    100052: CMan0008-L Foot
+    100054: CMan0008-L Forearm
+    100056: CMan0008-L Hand
+    100058: CMan0008-L Thigh
+    100060: CMan0008-L Toe0
+    100062: CMan0008-L Toe0Nub
+    100064: CMan0008-L UpperArm
+    100066: CMan0008-Mesh
+    100068: CMan0008-Neck
+    100070: CMan0008-Pelvis
+    100072: CMan0008-R Calf
+    100074: CMan0008-R Clavicle
+    100076: CMan0008-R Finger0
+    100078: CMan0008-R Finger01
+    100080: CMan0008-R Finger02
+    100082: CMan0008-R Finger0Nub
+    100084: CMan0008-R Finger1
+    100086: CMan0008-R Finger11
+    100088: CMan0008-R Finger12
+    100090: CMan0008-R Finger1Nub
+    100092: CMan0008-R Finger2
+    100094: CMan0008-R Finger21
+    100096: CMan0008-R Finger22
+    100098: CMan0008-R Finger2Nub
+    100100: CMan0008-R Finger3
+    100102: CMan0008-R Finger31
+    100104: CMan0008-R Finger32
+    100106: CMan0008-R Finger3Nub
+    100108: CMan0008-R Finger4
+    100110: CMan0008-R Finger41
+    100112: CMan0008-R Finger42
+    100114: CMan0008-R Finger4Nub
+    100116: CMan0008-R Foot
+    100118: CMan0008-R Forearm
+    100120: CMan0008-R Hand
+    100122: CMan0008-R Thigh
+    100124: CMan0008-R Toe0
+    100126: CMan0008-R Toe0Nub
+    100128: CMan0008-R UpperArm
+    100130: CMan0008-Spine
+    100132: CMan0008-Spine1
+    100134: CMan0008-Spine2
+    100136: CMan0008-Spine3
+    100138: //RootNode
+    400000: CMan0008-Bip
+    400002: CMan0008-Footsteps
+    400004: CMan0008-Head
+    400006: CMan0008-HeadNub
+    400008: CMan0008-L Calf
+    400010: CMan0008-L Clavicle
+    400012: CMan0008-L Finger0
+    400014: CMan0008-L Finger01
+    400016: CMan0008-L Finger02
+    400018: CMan0008-L Finger0Nub
+    400020: CMan0008-L Finger1
+    400022: CMan0008-L Finger11
+    400024: CMan0008-L Finger12
+    400026: CMan0008-L Finger1Nub
+    400028: CMan0008-L Finger2
+    400030: CMan0008-L Finger21
+    400032: CMan0008-L Finger22
+    400034: CMan0008-L Finger2Nub
+    400036: CMan0008-L Finger3
+    400038: CMan0008-L Finger31
+    400040: CMan0008-L Finger32
+    400042: CMan0008-L Finger3Nub
+    400044: CMan0008-L Finger4
+    400046: CMan0008-L Finger41
+    400048: CMan0008-L Finger42
+    400050: CMan0008-L Finger4Nub
+    400052: CMan0008-L Foot
+    400054: CMan0008-L Forearm
+    400056: CMan0008-L Hand
+    400058: CMan0008-L Thigh
+    400060: CMan0008-L Toe0
+    400062: CMan0008-L Toe0Nub
+    400064: CMan0008-L UpperArm
+    400066: CMan0008-Mesh
+    400068: CMan0008-Neck
+    400070: CMan0008-Pelvis
+    400072: CMan0008-R Calf
+    400074: CMan0008-R Clavicle
+    400076: CMan0008-R Finger0
+    400078: CMan0008-R Finger01
+    400080: CMan0008-R Finger02
+    400082: CMan0008-R Finger0Nub
+    400084: CMan0008-R Finger1
+    400086: CMan0008-R Finger11
+    400088: CMan0008-R Finger12
+    400090: CMan0008-R Finger1Nub
+    400092: CMan0008-R Finger2
+    400094: CMan0008-R Finger21
+    400096: CMan0008-R Finger22
+    400098: CMan0008-R Finger2Nub
+    400100: CMan0008-R Finger3
+    400102: CMan0008-R Finger31
+    400104: CMan0008-R Finger32
+    400106: CMan0008-R Finger3Nub
+    400108: CMan0008-R Finger4
+    400110: CMan0008-R Finger41
+    400112: CMan0008-R Finger42
+    400114: CMan0008-R Finger4Nub
+    400116: CMan0008-R Foot
+    400118: CMan0008-R Forearm
+    400120: CMan0008-R Hand
+    400122: CMan0008-R Thigh
+    400124: CMan0008-R Toe0
+    400126: CMan0008-R Toe0Nub
+    400128: CMan0008-R UpperArm
+    400130: CMan0008-Spine
+    400132: CMan0008-Spine1
+    400134: CMan0008-Spine2
+    400136: CMan0008-Spine3
+    400138: //RootNode
+    4300000: CMan0008-Mesh
+    7400000: Idle
+    7400002: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CMan0008-Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 709
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Walk
+      takeName: Take 001
+      firstFrame: 1309
+      lastFrame: 1552
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .699999988
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
