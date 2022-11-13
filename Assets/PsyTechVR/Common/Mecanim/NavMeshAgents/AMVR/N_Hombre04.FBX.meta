@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: de7991f7db882ef48a4853ba9f534481
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CMan0007-Bip
+    100002: CMan0007-Footsteps
+    100004: CMan0007-Head
+    100006: CMan0007-HeadNub
+    100008: CMan0007-L Calf
+    100010: CMan0007-L Clavicle
+    100012: CMan0007-L Finger0
+    100014: CMan0007-L Finger01
+    100016: CMan0007-L Finger02
+    100018: CMan0007-L Finger0Nub
+    100020: CMan0007-L Finger1
+    100022: CMan0007-L Finger11
+    100024: CMan0007-L Finger12
+    100026: CMan0007-L Finger1Nub
+    100028: CMan0007-L Finger2
+    100030: CMan0007-L Finger21
+    100032: CMan0007-L Finger22
+    100034: CMan0007-L Finger2Nub
+    100036: CMan0007-L Finger3
+    100038: CMan0007-L Finger31
+    100040: CMan0007-L Finger32
+    100042: CMan0007-L Finger3Nub
+    100044: CMan0007-L Finger4
+    100046: CMan0007-L Finger41
+    100048: CMan0007-L Finger42
+    100050: CMan0007-L Finger4Nub
+    100052: CMan0007-L Foot
+    100054: CMan0007-L Forearm
+    100056: CMan0007-L Hand
+    100058: CMan0007-L Thigh
+    100060: CMan0007-L Toe0
+    100062: CMan0007-L Toe0Nub
+    100064: CMan0007-L UpperArm
+    100066: CMan0007-Mesh
+    100068: CMan0007-Neck
+    100070: CMan0007-Pelvis
+    100072: CMan0007-R Calf
+    100074: CMan0007-R Clavicle
+    100076: CMan0007-R Finger0
+    100078: CMan0007-R Finger01
+    100080: CMan0007-R Finger02
+    100082: CMan0007-R Finger0Nub
+    100084: CMan0007-R Finger1
+    100086: CMan0007-R Finger11
+    100088: CMan0007-R Finger12
+    100090: CMan0007-R Finger1Nub
+    100092: CMan0007-R Finger2
+    100094: CMan0007-R Finger21
+    100096: CMan0007-R Finger22
+    100098: CMan0007-R Finger2Nub
+    100100: CMan0007-R Finger3
+    100102: CMan0007-R Finger31
+    100104: CMan0007-R Finger32
+    100106: CMan0007-R Finger3Nub
+    100108: CMan0007-R Finger4
+    100110: CMan0007-R Finger41
+    100112: CMan0007-R Finger42
+    100114: CMan0007-R Finger4Nub
+    100116: CMan0007-R Foot
+    100118: CMan0007-R Forearm
+    100120: CMan0007-R Hand
+    100122: CMan0007-R Thigh
+    100124: CMan0007-R Toe0
+    100126: CMan0007-R Toe0Nub
+    100128: CMan0007-R UpperArm
+    100130: CMan0007-Spine
+    100132: CMan0007-Spine1
+    100134: CMan0007-Spine2
+    100136: CMan0007-Spine3
+    100138: //RootNode
+    400000: CMan0007-Bip
+    400002: CMan0007-Footsteps
+    400004: CMan0007-Head
+    400006: CMan0007-HeadNub
+    400008: CMan0007-L Calf
+    400010: CMan0007-L Clavicle
+    400012: CMan0007-L Finger0
+    400014: CMan0007-L Finger01
+    400016: CMan0007-L Finger02
+    400018: CMan0007-L Finger0Nub
+    400020: CMan0007-L Finger1
+    400022: CMan0007-L Finger11
+    400024: CMan0007-L Finger12
+    400026: CMan0007-L Finger1Nub
+    400028: CMan0007-L Finger2
+    400030: CMan0007-L Finger21
+    400032: CMan0007-L Finger22
+    400034: CMan0007-L Finger2Nub
+    400036: CMan0007-L Finger3
+    400038: CMan0007-L Finger31
+    400040: CMan0007-L Finger32
+    400042: CMan0007-L Finger3Nub
+    400044: CMan0007-L Finger4
+    400046: CMan0007-L Finger41
+    400048: CMan0007-L Finger42
+    400050: CMan0007-L Finger4Nub
+    400052: CMan0007-L Foot
+    400054: CMan0007-L Forearm
+    400056: CMan0007-L Hand
+    400058: CMan0007-L Thigh
+    400060: CMan0007-L Toe0
+    400062: CMan0007-L Toe0Nub
+    400064: CMan0007-L UpperArm
+    400066: CMan0007-Mesh
+    400068: CMan0007-Neck
+    400070: CMan0007-Pelvis
+    400072: CMan0007-R Calf
+    400074: CMan0007-R Clavicle
+    400076: CMan0007-R Finger0
+    400078: CMan0007-R Finger01
+    400080: CMan0007-R Finger02
+    400082: CMan0007-R Finger0Nub
+    400084: CMan0007-R Finger1
+    400086: CMan0007-R Finger11
+    400088: CMan0007-R Finger12
+    400090: CMan0007-R Finger1Nub
+    400092: CMan0007-R Finger2
+    400094: CMan0007-R Finger21
+    400096: CMan0007-R Finger22
+    400098: CMan0007-R Finger2Nub
+    400100: CMan0007-R Finger3
+    400102: CMan0007-R Finger31
+    400104: CMan0007-R Finger32
+    400106: CMan0007-R Finger3Nub
+    400108: CMan0007-R Finger4
+    400110: CMan0007-R Finger41
+    400112: CMan0007-R Finger42
+    400114: CMan0007-R Finger4Nub
+    400116: CMan0007-R Foot
+    400118: CMan0007-R Forearm
+    400120: CMan0007-R Hand
+    400122: CMan0007-R Thigh
+    400124: CMan0007-R Toe0
+    400126: CMan0007-R Toe0Nub
+    400128: CMan0007-R UpperArm
+    400130: CMan0007-Spine
+    400132: CMan0007-Spine1
+    400134: CMan0007-Spine2
+    400136: CMan0007-Spine3
+    400138: //RootNode
+    4300000: CMan0007-Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: CMan0007-Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: CMan0007-Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CMan0007-R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: N_Hombre04(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-Bip
+      position: {x: 1.0655086e-05, y: .904171526, z: -.000118816271}
+      rotation: {x: -.519829512, y: .488951147, z: .465056151, w: .523857653}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-Footsteps
+      position: {x: .0180776268, y: -.0231369734, z: -.856416941}
+      rotation: {x: -.00284832786, y: -.0168963317, z: -.674585044, w: .737998247}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-Pelvis
+      position: {x: -.0363366045, y: -.0012202377, z: .045720879}
+      rotation: {x: .533790469, y: -.47901839, z: -.509895384, w: -.474990338}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-Spine
+      position: {x: -.0752020627, y: -8.44111637e-05, z: -9.86641968e-09}
+      rotation: {x: 2.35161951e-06, y: -6.20056753e-08, z: .063465856, w: -.997983992}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Thigh
+      position: {x: .0745851025, y: .00960979424, z: .0825529397}
+      rotation: {x: .0367996618, y: -.997851372, z: -.00726375217, w: -.0537199266}
+      scale: {x: .999999583, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Calf
+      position: {x: -.519725621, y: 8.90625529e-08, z: 5.34988871e-08}
+      rotation: {x: -4.4455453e-07, y: 8.58848708e-08, z: .0351256989, w: .999382913}
+      scale: {x: 1.00000036, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: CMan0007-L Foot
+      position: {x: -.316267312, y: 9.86571251e-08, z: -1.03749542e-07}
+      rotation: {x: -.0680790916, y: .0583212525, z: -.0574882962, w: .9943133}
+      scale: {x: .999999642, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Toe0
+      position: {x: -.0949360728, y: .162167713, z: 5.83335336e-09}
+      rotation: {x: 1.4645102e-08, y: -3.18745421e-08, z: -.707107008, w: .707106709}
+      scale: {x: 1, y: 1, z: .999999762}
+      transformModified: 1
+    - name: CMan0007-L Toe0Nub
+      position: {x: -.0989143997, y: -1.86264515e-09, z: 1.39698386e-09}
+      rotation: {x: -3.44061846e-09, y: -9.31322575e-10, z: 1, w: 7.27595817e-10}
+      scale: {x: -1, y: -1, z: -.99999994}
+      transformModified: 1
+    - name: CMan0007-R Thigh
+      position: {x: .0745853633, y: .00961030368, z: -.0825529099}
+      rotation: {x: .0367998853, y: -.997851372, z: .00726052979, w: .0537197329}
+      scale: {x: .999999583, y: .999999642, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R Calf
+      position: {x: -.519725561, y: 1.66768515e-07, z: -5.35160893e-09}
+      rotation: {x: -4.22368629e-07, y: 7.24865288e-08, z: .0351258032, w: .999382913}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Foot
+      position: {x: -.316266984, y: 8.675228e-08, z: 5.39857545e-08}
+      rotation: {x: .0680799186, y: -.0583213605, z: -.0574883632, w: .99431324}
+      scale: {x: 1.00000036, y: 1, z: .999999702}
+      transformModified: 1
+    - name: CMan0007-R Toe0
+      position: {x: -.0949360281, y: .162167713, z: -3.02727052e-08}
+      rotation: {x: -4.39794192e-08, y: -3.92710469e-08, z: -.707106888, w: .707106709}
+      scale: {x: 1.00000024, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: CMan0007-R Toe0Nub
+      position: {x: -.0989143997, y: -4.65661287e-10, z: 0}
+      rotation: {x: -6.66784336e-18, y: 4.77302819e-09, z: 1.39698386e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-Spine1
+      position: {x: -.106887534, y: -8.43662201e-05, z: -3.59088914e-09}
+      rotation: {x: 6.29226997e-06, y: 5.72877752e-07, z: -.069581002, w: -.997576296}
+      scale: {x: .999999642, y: .999999583, z: .999999821}
+      transformModified: 1
+    - name: CMan0007-Spine2
+      position: {x: -.106887646, y: -8.43806774e-05, z: -2.77421552e-08}
+      rotation: {x: 6.8600466e-06, y: -7.45325053e-07, z: .0678987354, w: .997692227}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: CMan0007-Spine3
+      position: {x: -.106890962, y: -8.48688069e-05, z: 5.84831339e-09}
+      rotation: {x: -2.58193836e-07, y: -1.32116796e-07, z: .0446136855, w: .999004304}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-Neck
+      position: {x: -.169994146, y: .00391603913, z: 8.5891938e-10}
+      rotation: {x: -2.03316432e-07, y: -6.98233748e-07, z: .255774975, w: -.966736376}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-Head
+      position: {x: -.0597170331, y: 3.06406598e-08, z: -1.67916685e-08}
+      rotation: {x: -3.5637413e-07, y: -2.33159469e-07, z: .0419946238, w: .999117851}
+      scale: {x: .999999762, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: CMan0007-HeadNub
+      position: {x: -.264869928, y: 0, z: -7.4505806e-09}
+      rotation: {x: -1.11758709e-08, y: -8.32667268e-17, z: 7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Clavicle
+      position: {x: .0041184742, y: .00425260467, z: .0288934018}
+      rotation: {x: .569308698, y: .247505024, z: -.772419691, w: .134151846}
+      scale: {x: .999999523, y: .999999762, z: .999999642}
+      transformModified: 1
+    - name: CMan0007-L UpperArm
+      position: {x: -.167736828, y: -3.53390313e-08, z: -9.1835048e-08}
+      rotation: {x: .15798974, y: .105269767, z: .0890760124, w: .977764308}
+      scale: {x: .999999881, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: CMan0007-L Forearm
+      position: {x: -.284461528, y: 3.57113521e-08, z: -1.92775374e-07}
+      rotation: {x: -.00141233089, y: .0162088238, z: .0401290767, w: .999062002}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: CMan0007-L Hand
+      position: {x: -.22918044, y: -1.14228435e-07, z: 2.08928768e-07}
+      rotation: {x: .774014711, y: -.0693907887, z: .0130594419, w: -.62921834}
+      scale: {x: .999999762, y: 1, z: .999999702}
+      transformModified: 1
+    - name: CMan0007-L Finger0
+      position: {x: -.0324730836, y: .00206725509, z: -.0436023101}
+      rotation: {x: .344613224, y: -.429950595, z: .0258570593, w: .834095716}
+      scale: {x: .99999994, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Finger01
+      position: {x: -.0196558759, y: 1.16540107e-07, z: 7.60170238e-08}
+      rotation: {x: -6.06583299e-08, y: 1.60981676e-06, z: -.0402910784, w: .999188006}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger02
+      position: {x: -.0262460355, y: -9.6412105e-09, z: -1.12304946e-07}
+      rotation: {x: -6.92743782e-08, y: -2.61017931e-07, z: -.0398623012, w: .999205172}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger0Nub
+      position: {x: -.0341871381, y: 5.96046448e-08, z: -2.98023224e-08}
+      rotation: {x: 2.22044605e-16, y: 2.98023224e-08, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger1
+      position: {x: -.08877711, y: -.000865099602, z: -.038080588}
+      rotation: {x: -.00172780314, y: -.0183085464, z: -.0609927922, w: .997968853}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: CMan0007-L Finger11
+      position: {x: -.0296465233, y: 3.14545789e-09, z: 8.17825665e-08}
+      rotation: {x: -6.32766728e-08, y: 1.08610347e-08, z: -.0044902144, w: .999989986}
+      scale: {x: .999999821, y: .999999762, z: .999999642}
+      transformModified: 1
+    - name: CMan0007-L Finger12
+      position: {x: -.025446998, y: -2.73379435e-08, z: -4.38169465e-08}
+      rotation: {x: -5.05724103e-08, y: 1.50198805e-08, z: -.0420896076, w: .999113858}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Finger1Nub
+      position: {x: -.0307650566, y: 0, z: -2.98023224e-08}
+      rotation: {x: -7.4505806e-09, y: 7.4505806e-09, z: 5.55111512e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger2
+      position: {x: -.087224789, y: .00038212561, z: -.013002106}
+      rotation: {x: -.00267254701, y: -.00690107746, z: -.0510022491, w: .998671114}
+      scale: {x: 1.00000036, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-L Finger21
+      position: {x: -.0378913134, y: -3.99707915e-07, z: -4.64762024e-08}
+      rotation: {x: -1.11120478e-07, y: -5.18108493e-07, z: -.0395288505, w: .999218464}
+      scale: {x: .999999702, y: 1, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Finger22
+      position: {x: -.0301407427, y: -1.03526766e-07, z: -1.0918547e-08}
+      rotation: {x: -4.65917471e-10, y: 8.59565863e-10, z: -.0260581411, w: .999660432}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-L Finger2Nub
+      position: {x: -.0345966816, y: 0, z: 0}
+      rotation: {x: -1.49011594e-08, y: -1.117587e-08, z: 3.72528963e-09, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger3
+      position: {x: -.0899880752, y: -.00232874625, z: .0123782707}
+      rotation: {x: -.00232092477, y: -.0124088526, z: -.0571653359, w: .998284936}
+      scale: {x: 1, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Finger31
+      position: {x: -.0350214355, y: -2.06388989e-07, z: 1.94288162e-07}
+      rotation: {x: 9.85136808e-08, y: 1.0189475e-06, z: -.0409343578, w: .999161839}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger32
+      position: {x: -.0350216664, y: 5.32468391e-07, z: -1.25004505e-07}
+      rotation: {x: -2.02013961e-09, y: -3.17344018e-07, z: -.0411558896, w: .99915278}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-L Finger3Nub
+      position: {x: -.0326369554, y: 5.96046448e-08, z: 0}
+      rotation: {x: -1.38777878e-17, y: -1.86264515e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger4
+      position: {x: -.0907558128, y: -.00240955432, z: .0398316607}
+      rotation: {x: -.00405542133, y: -.0544340946, z: -.0580933616, w: .996817768}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-L Finger41
+      position: {x: -.0278149471, y: 2.89878045e-07, z: -1.7518272e-07}
+      rotation: {x: -1.05101293e-07, y: -1.48601794e-06, z: -.040889509, w: .999163747}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-L Finger42
+      position: {x: -.0221650619, y: -3.38968334e-07, z: 1.035813e-07}
+      rotation: {x: -1.22252928e-07, y: -1.84740152e-08, z: -.00573874917, w: .999983609}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-L Finger4Nub
+      position: {x: -.0289369952, y: 5.96046448e-08, z: 0}
+      rotation: {x: 1.49011612e-08, y: 1.4901163e-08, z: -2.22044631e-16, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-R Clavicle
+      position: {x: .00411842065, y: .00425258232, z: -.028893467}
+      rotation: {x: -.569307923, y: -.24750331, z: -.772420704, w: .134152994}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R UpperArm
+      position: {x: -.167736962, y: -1.33159077e-07, z: -6.55171206e-08}
+      rotation: {x: .157989711, y: .105270281, z: -.0890756771, w: -.977764249}
+      scale: {x: .999999702, y: 1, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R Forearm
+      position: {x: -.284461409, y: -9.7751478e-09, z: 1.51671969e-07}
+      rotation: {x: -.00141226174, y: .0162093509, z: -.0401293859, w: -.999062061}
+      scale: {x: 1.00000012, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: CMan0007-R Hand
+      position: {x: -.229180276, y: 6.05813426e-08, z: 1.52733236e-07}
+      rotation: {x: .772239745, y: -.0969580784, z: .00750885159, w: .627844334}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Finger0
+      position: {x: -.0319295749, y: .00050552329, z: .0450192206}
+      rotation: {x: -.343984962, y: .42829445, z: .0320074335, w: .834993362}
+      scale: {x: .999999702, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: CMan0007-R Finger01
+      position: {x: -.0196559764, y: 2.4597955e-07, z: 3.17058124e-07}
+      rotation: {x: 2.24114601e-07, y: 2.46599257e-06, z: -.0402904078, w: .999188006}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-R Finger02
+      position: {x: -.0262458026, y: 4.30640013e-09, z: 4.72195216e-09}
+      rotation: {x: -1.05141702e-07, y: 1.69848832e-07, z: -.0398664325, w: .999205053}
+      scale: {x: 1.00000036, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R Finger0Nub
+      position: {x: -.0341871381, y: 7.4505806e-09, z: 0}
+      rotation: {x: 4.16333634e-17, y: -5.58793545e-09, z: 1, w: -7.4505806e-09}
+      scale: {x: -.99999994, y: -1, z: -.99999994}
+      transformModified: 1
+    - name: CMan0007-R Finger1
+      position: {x: -.0887197405, y: -.000868698233, z: .0399964638}
+      rotation: {x: -.0171780419, y: .0227083117, z: -.0559384152, w: .9980281}
+      scale: {x: .999999881, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: CMan0007-R Finger11
+      position: {x: -.02964646, y: 1.21527819e-07, z: -3.33376988e-08}
+      rotation: {x: 3.92289756e-09, y: -1.62654047e-07, z: -.0404627658, w: .999181092}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Finger12
+      position: {x: -.0254470091, y: 1.70270937e-07, z: -7.56812568e-09}
+      rotation: {x: -5.34932596e-08, y: 6.02253625e-09, z: -.0402556397, w: .999189436}
+      scale: {x: .999999702, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: CMan0007-R Finger1Nub
+      position: {x: -.0307651144, y: -2.98023224e-08, z: 7.4505806e-09}
+      rotation: {x: 1.72294676e-08, y: -2.49128806e-08, z: 1, w: 1.49011612e-08}
+      scale: {x: -1, y: -.99999994, z: -.99999994}
+      transformModified: 1
+    - name: CMan0007-R Finger2
+      position: {x: -.0871666893, y: .000369310379, z: .0144207049}
+      rotation: {x: .00394521654, y: .0223251395, z: -.0587180816, w: .998017192}
+      scale: {x: 1.00000036, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R Finger21
+      position: {x: -.0378914066, y: 1.39980344e-07, z: 1.01081277e-07}
+      rotation: {x: 8.78671358e-08, y: 5.37062306e-07, z: -.0395434611, w: .999217868}
+      scale: {x: .999999821, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Finger22
+      position: {x: -.0301406719, y: -2.7828176e-07, z: -7.15446324e-09}
+      rotation: {x: 6.90695643e-08, y: 1.86981346e-08, z: -.0260581598, w: .999660432}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-R Finger2Nub
+      position: {x: -.0345966816, y: 0, z: 0}
+      rotation: {x: 1.53668225e-08, y: -4.65661287e-09, z: 1, w: 1.32789686e-16}
+      scale: {x: -1, y: -1, z: -1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Finger3
+      position: {x: -.0898520276, y: -.00235569943, z: -.00962046161}
+      rotation: {x: .00440309523, y: .0296540614, z: -.0645390823, w: .997464776}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: CMan0007-R Finger31
+      position: {x: -.0350215994, y: 2.92310148e-07, z: -3.80008416e-08}
+      rotation: {x: 4.60406149e-08, y: -1.16605229e-07, z: -.0410949662, w: .999155283}
+      scale: {x: .999999762, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Finger32
+      position: {x: -.0350214466, y: -5.86978445e-07, z: 3.36076522e-09}
+      rotation: {x: -9.59802477e-08, y: 3.76006248e-08, z: -.0411426723, w: .999153256}
+      scale: {x: 1.00000024, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: CMan0007-R Finger3Nub
+      position: {x: -.0326370001, y: 2.98023224e-08, z: -7.4505806e-09}
+      rotation: {x: 2.84053385e-08, y: -1.95577741e-08, z: 1, w: 6.16777523e-16}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: CMan0007-R Finger4
+      position: {x: -.0922840759, y: -.00223591714, z: -.0365564004}
+      rotation: {x: .00193602697, y: .0455219224, z: -.0762510449, w: .996047139}
+      scale: {x: 1, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R Finger41
+      position: {x: -.027814839, y: 4.22125659e-08, z: -5.88088085e-08}
+      rotation: {x: -3.35646924e-08, y: -1.54728411e-07, z: -.0408858918, w: .999163866}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: CMan0007-R Finger42
+      position: {x: -.0221652016, y: -3.31834372e-07, z: -1.24297417e-08}
+      rotation: {x: -5.13417611e-08, y: -1.02494289e-08, z: -.0057387678, w: .999983549}
+      scale: {x: .999999821, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: CMan0007-R Finger4Nub
+      position: {x: -.0289369226, y: 2.98023224e-08, z: -2.23517418e-08}
+      rotation: {x: 1.49011612e-08, y: -7.4505806e-09, z: 1, w: 1.49011612e-08}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: CMan0007-Mesh
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -5.3385083e-08, y: .707106829, z: .707106829, w: 5.3385083e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

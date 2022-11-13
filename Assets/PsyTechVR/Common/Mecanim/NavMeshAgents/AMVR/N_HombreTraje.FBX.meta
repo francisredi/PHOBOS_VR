@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 038310fd5ebe4224c9726a7705c2bde1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BMan0001-Bip
+    100002: BMan0001-Footsteps
+    100004: BMan0001-Head
+    100006: BMan0001-HeadNub
+    100008: BMan0001-L Calf
+    100010: BMan0001-L Clavicle
+    100012: BMan0001-L Finger0
+    100014: BMan0001-L Finger01
+    100016: BMan0001-L Finger02
+    100018: BMan0001-L Finger0Nub
+    100020: BMan0001-L Finger1
+    100022: BMan0001-L Finger11
+    100024: BMan0001-L Finger12
+    100026: BMan0001-L Finger1Nub
+    100028: BMan0001-L Finger2
+    100030: BMan0001-L Finger21
+    100032: BMan0001-L Finger22
+    100034: BMan0001-L Finger2Nub
+    100036: BMan0001-L Finger3
+    100038: BMan0001-L Finger31
+    100040: BMan0001-L Finger32
+    100042: BMan0001-L Finger3Nub
+    100044: BMan0001-L Finger4
+    100046: BMan0001-L Finger41
+    100048: BMan0001-L Finger42
+    100050: BMan0001-L Finger4Nub
+    100052: BMan0001-L Foot
+    100054: BMan0001-L Forearm
+    100056: BMan0001-L Hand
+    100058: BMan0001-L Thigh
+    100060: BMan0001-L Toe0
+    100062: BMan0001-L Toe0Nub
+    100064: BMan0001-L UpperArm
+    100066: BMan0001-Mesh
+    100068: BMan0001-Neck
+    100070: BMan0001-Pelvis
+    100072: BMan0001-R Calf
+    100074: BMan0001-R Clavicle
+    100076: BMan0001-R Finger0
+    100078: BMan0001-R Finger01
+    100080: BMan0001-R Finger02
+    100082: BMan0001-R Finger0Nub
+    100084: BMan0001-R Finger1
+    100086: BMan0001-R Finger11
+    100088: BMan0001-R Finger12
+    100090: BMan0001-R Finger1Nub
+    100092: BMan0001-R Finger2
+    100094: BMan0001-R Finger21
+    100096: BMan0001-R Finger22
+    100098: BMan0001-R Finger2Nub
+    100100: BMan0001-R Finger3
+    100102: BMan0001-R Finger31
+    100104: BMan0001-R Finger32
+    100106: BMan0001-R Finger3Nub
+    100108: BMan0001-R Finger4
+    100110: BMan0001-R Finger41
+    100112: BMan0001-R Finger42
+    100114: BMan0001-R Finger4Nub
+    100116: BMan0001-R Foot
+    100118: BMan0001-R Forearm
+    100120: BMan0001-R Hand
+    100122: BMan0001-R Thigh
+    100124: BMan0001-R Toe0
+    100126: BMan0001-R Toe0Nub
+    100128: BMan0001-R UpperArm
+    100130: BMan0001-Spine
+    100132: BMan0001-Spine1
+    100134: BMan0001-Spine2
+    100136: BMan0001-Spine3
+    100138: //RootNode
+    400000: BMan0001-Bip
+    400002: BMan0001-Footsteps
+    400004: BMan0001-Head
+    400006: BMan0001-HeadNub
+    400008: BMan0001-L Calf
+    400010: BMan0001-L Clavicle
+    400012: BMan0001-L Finger0
+    400014: BMan0001-L Finger01
+    400016: BMan0001-L Finger02
+    400018: BMan0001-L Finger0Nub
+    400020: BMan0001-L Finger1
+    400022: BMan0001-L Finger11
+    400024: BMan0001-L Finger12
+    400026: BMan0001-L Finger1Nub
+    400028: BMan0001-L Finger2
+    400030: BMan0001-L Finger21
+    400032: BMan0001-L Finger22
+    400034: BMan0001-L Finger2Nub
+    400036: BMan0001-L Finger3
+    400038: BMan0001-L Finger31
+    400040: BMan0001-L Finger32
+    400042: BMan0001-L Finger3Nub
+    400044: BMan0001-L Finger4
+    400046: BMan0001-L Finger41
+    400048: BMan0001-L Finger42
+    400050: BMan0001-L Finger4Nub
+    400052: BMan0001-L Foot
+    400054: BMan0001-L Forearm
+    400056: BMan0001-L Hand
+    400058: BMan0001-L Thigh
+    400060: BMan0001-L Toe0
+    400062: BMan0001-L Toe0Nub
+    400064: BMan0001-L UpperArm
+    400066: BMan0001-Mesh
+    400068: BMan0001-Neck
+    400070: BMan0001-Pelvis
+    400072: BMan0001-R Calf
+    400074: BMan0001-R Clavicle
+    400076: BMan0001-R Finger0
+    400078: BMan0001-R Finger01
+    400080: BMan0001-R Finger02
+    400082: BMan0001-R Finger0Nub
+    400084: BMan0001-R Finger1
+    400086: BMan0001-R Finger11
+    400088: BMan0001-R Finger12
+    400090: BMan0001-R Finger1Nub
+    400092: BMan0001-R Finger2
+    400094: BMan0001-R Finger21
+    400096: BMan0001-R Finger22
+    400098: BMan0001-R Finger2Nub
+    400100: BMan0001-R Finger3
+    400102: BMan0001-R Finger31
+    400104: BMan0001-R Finger32
+    400106: BMan0001-R Finger3Nub
+    400108: BMan0001-R Finger4
+    400110: BMan0001-R Finger41
+    400112: BMan0001-R Finger42
+    400114: BMan0001-R Finger4Nub
+    400116: BMan0001-R Foot
+    400118: BMan0001-R Forearm
+    400120: BMan0001-R Hand
+    400122: BMan0001-R Thigh
+    400124: BMan0001-R Toe0
+    400126: BMan0001-R Toe0Nub
+    400128: BMan0001-R UpperArm
+    400130: BMan0001-Spine
+    400132: BMan0001-Spine1
+    400134: BMan0001-Spine2
+    400136: BMan0001-Spine3
+    400138: //RootNode
+    4300000: BMan0001-Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BMan0001-Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: BMan0001-Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BMan0001-R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: N_HombreTraje(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BMan0001-Bip
+      position: {x: 0, y: .923035085, z: 0}
+      rotation: {x: -.519829512, y: .488951147, z: .465056151, w: .523857653}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-Footsteps
+      position: {x: .0192386638, y: -.0246229433, z: -.911420286}
+      rotation: {x: -.00284832786, y: -.0168963317, z: -.674585044, w: .737998247}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-Pelvis
+      position: {x: -.00143557962, y: .000877749699, z: .0348148718}
+      rotation: {x: .533790767, y: -.479018062, z: -.509895742, w: -.47498998}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BMan0001-Spine
+      position: {x: -.0751992762, y: -7.26391954e-05, z: -1.60100342e-08}
+      rotation: {x: -2.1823048e-06, y: 7.98859361e-08, z: -.0556223392, w: .998451948}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: BMan0001-L Thigh
+      position: {x: .0747257844, y: .008424595, z: .0825529248}
+      rotation: {x: -.0162321795, y: .998022318, z: .00763054471, w: .0602475144}
+      scale: {x: .999999762, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Calf
+      position: {x: -.495799124, y: -1.45280605e-08, z: -2.53201424e-08}
+      rotation: {x: 2.89295592e-08, y: -4.82283191e-08, z: .0484710298, w: .998824596}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Foot
+      position: {x: -.352391332, y: 4.89216738e-08, z: 5.52849002e-08}
+      rotation: {x: -.106936112, y: .0699539036, z: -.08010564, w: .98856169}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Toe0
+      position: {x: -.0949358121, y: .193509385, z: -1.33623175e-07}
+      rotation: {x: -2.03906403e-08, y: 5.70756029e-08, z: -.707106769, w: .707106829}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Toe0Nub
+      position: {x: -.0623005033, y: 1.86264515e-09, z: -4.65661287e-10}
+      rotation: {x: -5.24505595e-09, y: -9.31322575e-10, z: 1, w: 2.32830699e-10}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: BMan0001-R Thigh
+      position: {x: .0747257993, y: .00842503179, z: -.0825529173}
+      rotation: {x: -.0162324216, y: .998022377, z: -.00762747973, w: -.0602475405}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-R Calf
+      position: {x: -.495799065, y: -4.64954519e-09, z: -1.20649275e-07}
+      rotation: {x: -2.15068368e-07, y: -2.40614595e-09, z: .0484710187, w: .998824656}
+      scale: {x: .999999762, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Foot
+      position: {x: -.352391452, y: 5.00188069e-09, z: -5.74174095e-08}
+      rotation: {x: .106936418, y: -.0699539334, z: -.0801055208, w: .98856169}
+      scale: {x: .999999821, y: .999999762, z: .999999583}
+      transformModified: 1
+    - name: BMan0001-R Toe0
+      position: {x: -.0949358419, y: .193509251, z: -8.61925908e-09}
+      rotation: {x: -1.6617113e-08, y: 5.83321693e-08, z: -.707106769, w: .707106769}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: BMan0001-R Toe0Nub
+      position: {x: -.0623005331, y: 0, z: 0}
+      rotation: {x: 0, y: 1.15833245e-08, z: -0, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-Spine1
+      position: {x: -.0918285996, y: -7.22871191e-05, z: -1.85753315e-08}
+      rotation: {x: -5.52166625e-07, y: -2.98622297e-07, z: .0774172172, w: .996998787}
+      scale: {x: .999999881, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-Spine2
+      position: {x: -.0918286592, y: -7.22832192e-05, z: -1.62214633e-08}
+      rotation: {x: 8.93633967e-07, y: -3.00708933e-07, z: .0757357478, w: .99712795}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: BMan0001-Spine3
+      position: {x: -.0918317363, y: -7.272941e-05, z: -3.66849129e-09}
+      rotation: {x: -3.34995804e-07, y: -9.33463227e-08, z: .0524619594, w: .998622954}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: BMan0001-Neck
+      position: {x: -.154955208, y: .00389267481, z: 2.42780906e-09}
+      rotation: {x: -1.47068124e-09, y: 8.93653976e-07, z: -.296895057, w: .954910159}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: BMan0001-Head
+      position: {x: -.0985086784, y: -1.61061173e-08, z: 1.98854053e-08}
+      rotation: {x: 4.17379766e-07, y: -2.80405516e-07, z: .110206962, w: .993908703}
+      scale: {x: .999999702, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: BMan0001-HeadNub
+      position: {x: -.283494323, y: -2.98023224e-08, z: -7.4505806e-09}
+      rotation: {x: -1.11758709e-08, y: -8.32667268e-17, z: 7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Clavicle
+      position: {x: .00374409906, y: .00462008407, z: .0288934652}
+      rotation: {x: -.558200657, y: -.271631837, z: .765973568, w: -.16707097}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: BMan0001-L UpperArm
+      position: {x: -.167737082, y: 4.98744868e-08, z: -2.86501859e-07}
+      rotation: {x: .19320029, y: .10713242, z: .0686478987, w: .972873926}
+      scale: {x: .999999702, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: BMan0001-L Forearm
+      position: {x: -.273705781, y: -5.94093272e-08, z: 5.48643754e-07}
+      rotation: {x: -.00305450079, y: .0231174082, z: .0530163683, w: .998321414}
+      scale: {x: 1.00000024, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Hand
+      position: {x: -.267175376, y: -8.32376728e-08, z: -2.97931194e-07}
+      rotation: {x: .729391098, y: -.103610843, z: .0186982155, w: -.675946653}
+      scale: {x: 1, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: BMan0001-L Finger0
+      position: {x: -.0242854767, y: -.00133093167, z: -.0399023741}
+      rotation: {x: -.237198398, y: .44526574, z: -.0518858917, w: -.861848712}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-L Finger01
+      position: {x: -.0204374455, y: -1.6397108e-07, z: -9.75226015e-08}
+      rotation: {x: -1.1198054e-08, y: -3.52643133e-06, z: .0346343033, w: .999400139}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Finger02
+      position: {x: -.0272896569, y: 1.07578693e-07, z: 1.66177543e-07}
+      rotation: {x: -5.93090519e-08, y: -7.62481136e-08, z: -.00640149182, w: .999979556}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-L Finger0Nub
+      position: {x: -.0355469249, y: 2.98023224e-08, z: -5.96046448e-08}
+      rotation: {x: 0, y: 0, z: 3.72528985e-09, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Finger1
+      position: {x: -.070109874, y: .000149050626, z: -.033714667}
+      rotation: {x: .00490505667, y: .0665189549, z: .0624607205, w: -.995816171}
+      scale: {x: 1.00000012, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: BMan0001-L Finger11
+      position: {x: -.0264035705, y: -2.54515243e-07, z: -1.06184636e-07}
+      rotation: {x: -5.37470264e-08, y: 4.74994728e-08, z: -.0202603098, w: .999794781}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Finger12
+      position: {x: -.0226637609, y: -4.26554095e-07, z: -5.48379937e-08}
+      rotation: {x: -1.00104218e-08, y: -1.07488312e-08, z: -.0310761537, w: .999517024}
+      scale: {x: .99999994, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: BMan0001-L Finger1Nub
+      position: {x: -.0273999255, y: 0, z: 0}
+      rotation: {x: 1.11022302e-16, y: -7.4505806e-09, z: 1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Finger2
+      position: {x: -.0696754083, y: -.00259056734, z: -.0110199554}
+      rotation: {x: .00666713901, y: .0738626719, z: .0634626821, w: -.995224833}
+      scale: {x: 1.00000024, y: .999999762, z: .999999583}
+      transformModified: 1
+    - name: BMan0001-L Finger21
+      position: {x: -.0373986289, y: -7.0286103e-07, z: -3.8804675e-09}
+      rotation: {x: 1.3312507e-07, y: 2.28801682e-07, z: -.0405067094, w: .999179244}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-L Finger22
+      position: {x: -.0297487341, y: 4.28565841e-07, z: -1.53610529e-08}
+      rotation: {x: -6.60859012e-09, y: 9.66380611e-08, z: -.0273721218, w: .999625385}
+      scale: {x: .999999762, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: BMan0001-L Finger2Nub
+      position: {x: -.0341467187, y: 2.98023224e-08, z: 0}
+      rotation: {x: 1.4901163e-08, y: 1.16997407e-08, z: 4.42378223e-09, w: 1}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-L Finger3
+      position: {x: -.0709620416, y: .00295579643, z: .0151542462}
+      rotation: {x: .00173842232, y: .0414112173, z: .0518270731, w: -.997795582}
+      scale: {x: 1, y: .999999642, z: .999999821}
+      transformModified: 1
+    - name: BMan0001-L Finger31
+      position: {x: -.0342640914, y: 7.51448397e-08, z: 1.30698481e-07}
+      rotation: {x: 1.79208456e-07, y: 6.38738754e-07, z: -.0388532691, w: .999244988}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Finger32
+      position: {x: -.0342642181, y: 2.81247679e-07, z: 1.732991e-08}
+      rotation: {x: -1.01685565e-07, y: -3.21495293e-08, z: -.0391364358, w: .999233961}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-L Finger3Nub
+      position: {x: -.0319311917, y: 0, z: 0}
+      rotation: {x: -1.49011612e-08, y: -3.7252903e-09, z: 3.7252903e-09, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Finger4
+      position: {x: -.0698500425, y: -.00208232692, z: .037945684}
+      rotation: {x: -.00812188257, y: -.0483901761, z: -.0550608523, w: .997276723}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: BMan0001-L Finger41
+      position: {x: -.026454255, y: -3.49915808e-07, z: 1.90702252e-07}
+      rotation: {x: -6.20095131e-09, y: 5.89588964e-08, z: .000569972442, w: .999999881}
+      scale: {x: .99999994, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: BMan0001-L Finger42
+      position: {x: -.0210808758, y: 8.34727274e-08, z: -2.14934047e-07}
+      rotation: {x: -4.29000835e-08, y: -3.70630033e-07, z: -.0414539389, w: .999140441}
+      scale: {x: .99999994, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: BMan0001-L Finger4Nub
+      position: {x: -.0275212657, y: 2.98023224e-08, z: 0}
+      rotation: {x: 2.98023224e-08, y: 2.23517418e-08, z: 7.45057971e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BMan0001-R Clavicle
+      position: {x: .0037437873, y: .00462031085, z: -.028893372}
+      rotation: {x: .558200359, y: .271629453, z: .765974224, w: -.167072803}
+      scale: {x: .999999821, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BMan0001-R UpperArm
+      position: {x: -.167736962, y: 2.15954316e-07, z: 2.78179698e-07}
+      rotation: {x: -.193200633, y: -.107131734, z: .0686475933, w: .972874045}
+      scale: {x: .999999702, y: .999999702, z: .999999702}
+      transformModified: 1
+    - name: BMan0001-R Forearm
+      position: {x: -.273706079, y: 3.13831343e-08, z: -7.48990544e-07}
+      rotation: {x: .00305451686, y: -.0231177956, z: .0530162938, w: .998321354}
+      scale: {x: .999999881, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: BMan0001-R Hand
+      position: {x: -.267175555, y: -2.62261963e-08, z: 2.55931752e-07}
+      rotation: {x: .729391098, y: -.103609815, z: -.0186990891, w: .675946832}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: BMan0001-R Finger0
+      position: {x: -.0242852531, y: -.00133072224, z: .0399024896}
+      rotation: {x: -.237198442, y: .445270091, z: .0518889204, w: .861846328}
+      scale: {x: .999999702, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Finger01
+      position: {x: -.0204372518, y: -9.24753749e-08, z: -1.96586086e-07}
+      rotation: {x: 3.67884383e-07, y: -9.49188961e-06, z: .0346331336, w: .999400139}
+      scale: {x: .999999881, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: BMan0001-R Finger02
+      position: {x: -.0272899196, y: 6.70346836e-08, z: 1.87499751e-07}
+      rotation: {x: -3.20050049e-08, y: 7.81550398e-08, z: -.00640154816, w: .999979496}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: BMan0001-R Finger0Nub
+      position: {x: -.0355468988, y: 1.49011612e-08, z: 0}
+      rotation: {x: 3.7252903e-09, y: -9.31322519e-10, z: 1, w: -1.49011612e-08}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: BMan0001-R Finger1
+      position: {x: -.0701096952, y: .00014878645, z: .0337146968}
+      rotation: {x: .00490602851, y: .0665202886, z: -.0624487996, w: .995816827}
+      scale: {x: 1.00000024, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Finger11
+      position: {x: -.0264037512, y: 1.81936173e-07, z: 1.47519259e-07}
+      rotation: {x: -6.6489612e-08, y: 3.0883772e-08, z: -.0202602595, w: .999794781}
+      scale: {x: .999999881, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: BMan0001-R Finger12
+      position: {x: -.0226639118, y: -2.74499399e-07, z: 8.78408883e-08}
+      rotation: {x: 7.44499147e-08, y: 3.27321779e-08, z: -.0310762022, w: .999517024}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: BMan0001-R Finger1Nub
+      position: {x: -.0273999553, y: -2.98023224e-08, z: -7.4505806e-09}
+      rotation: {x: -7.4505806e-09, y: 1.86264515e-08, z: 1, w: -1.49011612e-08}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: BMan0001-R Finger2
+      position: {x: -.0696754456, y: -.00259083835, z: .011020151}
+      rotation: {x: .00666802656, y: .0738641918, z: -.0634508878, w: .995225489}
+      scale: {x: 1.00000012, y: .999999702, z: 1}
+      transformModified: 1
+    - name: BMan0001-R Finger21
+      position: {x: -.0373985581, y: -2.20019913e-08, z: -1.61513867e-07}
+      rotation: {x: -1.5226324e-07, y: -1.49244011e-06, z: -.0405139662, w: .999178946}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Finger22
+      position: {x: -.0297485031, y: 5.33301375e-07, z: 1.44622121e-07}
+      rotation: {x: 1.61055755e-08, y: -9.90392074e-11, z: -.0273721665, w: .999625385}
+      scale: {x: 1.00000024, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: BMan0001-R Finger2Nub
+      position: {x: -.0341466963, y: 0, z: -1.49011612e-08}
+      rotation: {x: -2.23517418e-08, y: 7.4505806e-09, z: 1, w: -7.4505806e-09}
+      scale: {x: -1, y: -1, z: -.99999994}
+      transformModified: 1
+    - name: BMan0001-R Finger3
+      position: {x: -.070961982, y: .00295626605, z: -.0151542816}
+      rotation: {x: .0017384371, y: .0414111763, z: -.0518270805, w: .997795641}
+      scale: {x: 1.00000012, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Finger31
+      position: {x: -.0342637673, y: 4.18041317e-08, z: -1.81278761e-08}
+      rotation: {x: -9.64595159e-08, y: -6.43146734e-07, z: -.0388524942, w: .999244988}
+      scale: {x: 1, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: BMan0001-R Finger32
+      position: {x: -.0342642479, y: 7.74057014e-08, z: 6.61428956e-08}
+      rotation: {x: 7.24121421e-08, y: -3.92504784e-09, z: -.0391364396, w: .999233961}
+      scale: {x: .999999821, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Finger3Nub
+      position: {x: -.0319312215, y: 0, z: 0}
+      rotation: {x: -1.86264515e-08, y: 3.7252903e-09, z: 1, w: 1.30621282e-16}
+      scale: {x: -1, y: -1, z: -1.00000012}
+      transformModified: 1
+    - name: BMan0001-R Finger4
+      position: {x: -.0698502362, y: -.00208215252, z: -.0379456803}
+      rotation: {x: .00812359713, y: .0483904295, z: -.0550495535, w: .997277319}
+      scale: {x: 1.00000012, y: .999999702, z: 1}
+      transformModified: 1
+    - name: BMan0001-R Finger41
+      position: {x: -.0264539681, y: 2.60590156e-07, z: 4.92052301e-08}
+      rotation: {x: -1.16008437e-07, y: -8.01412625e-08, z: .000570000673, w: .999999821}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: BMan0001-R Finger42
+      position: {x: -.0210806951, y: -1.65329197e-07, z: -4.85502127e-08}
+      rotation: {x: 1.13533119e-07, y: -9.15247682e-08, z: -.0414492115, w: .99914062}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BMan0001-R Finger4Nub
+      position: {x: -.0275212508, y: -2.98023224e-08, z: 0}
+      rotation: {x: -1.49011612e-08, y: -7.45058015e-09, z: 1, w: 1.49011612e-08}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: BMan0001-Mesh
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
