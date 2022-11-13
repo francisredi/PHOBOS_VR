@@ -1,0 +1,2375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: OpenDoorRight
+  serializedVersion: 3
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -1.50153077, z: .0907927901}
+        inSlope: {x: -5.60283661e-06, y: .312016487, z: -2.84612179e-06}
+        outSlope: {x: -5.60283661e-06, y: .312016487, z: -2.84612179e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700073957, y: -1.18951428, z: .0907899439}
+        inSlope: {x: -5.60283661e-06, y: .312016487, z: -2.84612179e-06}
+        outSlope: {x: -5.60283661e-06, y: .312016487, z: -2.84612179e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte139
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -1.50153077, z: .0907927901}
+        inSlope: {x: -5.78165054e-06, y: -.327814817, z: -2.7641654e-06}
+        outSlope: {x: -5.78165054e-06, y: -.327814817, z: -2.7641654e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700074136, y: -1.82934558, z: .0907900259}
+        inSlope: {x: -5.78165054e-06, y: -.327814817, z: -2.7641654e-06}
+        outSlope: {x: -5.78165054e-06, y: -.327814817, z: -2.7641654e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte138
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -3.87490201, z: .0907927901}
+        inSlope: {x: -6.49690628e-06, y: .370629311, z: -2.56299973e-06}
+        outSlope: {x: -6.49690628e-06, y: .370629311, z: -2.56299973e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700074852, y: -3.5042727, z: .0907902271}
+        inSlope: {x: -6.49690628e-06, y: .370629311, z: -2.56299973e-06}
+        outSlope: {x: -6.49690628e-06, y: .370629311, z: -2.56299973e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte137
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -3.87490201, z: .0907927901}
+        inSlope: {x: -6.7949295e-06, y: -.295020342, z: -2.48849392e-06}
+        outSlope: {x: -6.7949295e-06, y: -.295020342, z: -2.48849392e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.70007515, y: -4.16992235, z: .0907903016}
+        inSlope: {x: -6.7949295e-06, y: -.295020342, z: -2.48849392e-06}
+        outSlope: {x: -6.7949295e-06, y: -.295020342, z: -2.48849392e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte136
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -6.20884895, z: .0907927901}
+        inSlope: {x: -7.4505806e-06, y: .384751797, z: -2.28732824e-06}
+        outSlope: {x: -7.4505806e-06, y: .384751797, z: -2.28732824e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700075805, y: -5.82409716, z: .0907905027}
+        inSlope: {x: -7.4505806e-06, y: .384751797, z: -2.28732824e-06}
+        outSlope: {x: -7.4505806e-06, y: .384751797, z: -2.28732824e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte135
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -6.20884895, z: .0907927901}
+        inSlope: {x: -7.74860382e-06, y: -.31825161, z: -2.20537186e-06}
+        outSlope: {x: -7.74860382e-06, y: -.31825161, z: -2.20537186e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700076103, y: -6.52710056, z: .0907905847}
+        inSlope: {x: -7.74860382e-06, y: -.31825161, z: -2.20537186e-06}
+        outSlope: {x: -7.74860382e-06, y: -.31825161, z: -2.20537186e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte134
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -8.5746851, z: .0907927901}
+        inSlope: {x: -8.46385956e-06, y: .385475159, z: -2.01165676e-06}
+        outSlope: {x: -8.46385956e-06, y: .385475159, z: -2.01165676e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700076818, y: -8.18920994, z: .0907907784}
+        inSlope: {x: -8.46385956e-06, y: .385475159, z: -2.01165676e-06}
+        outSlope: {x: -8.46385956e-06, y: .385475159, z: -2.01165676e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte132
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.700068355, y: -8.5746851, z: .0907927901}
+        inSlope: {x: -8.76188278e-06, y: -.310325623, z: -1.92224979e-06}
+        outSlope: {x: -8.76188278e-06, y: -.310325623, z: -1.92224979e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.700077116, y: -8.88501072, z: .0907908678}
+        inSlope: {x: -8.76188278e-06, y: -.310325623, z: -1.92224979e-06}
+        outSlope: {x: -8.76188278e-06, y: -.310325623, z: -1.92224979e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController01/vagon01/PuertaSubte133
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -1.32794678, z: .107970312}
+        inSlope: {x: -1.03712082e-05, y: .347722113, z: 1.00582838e-06}
+        outSlope: {x: -1.03712082e-05, y: .347722113, z: 1.00582838e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721558213, y: -.980224669, z: .107971318}
+        inSlope: {x: -1.03712082e-05, y: .347722113, z: 1.00582838e-06}
+        outSlope: {x: -1.03712082e-05, y: .347722113, z: 1.00582838e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte147
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -1.32794678, z: .107970312}
+        inSlope: {x: -1.06096268e-05, y: -.331537962, z: 1.08778477e-06}
+        outSlope: {x: -1.06096268e-05, y: -.331537962, z: 1.08778477e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721558452, y: -1.65948474, z: .1079714}
+        inSlope: {x: -1.06096268e-05, y: -.331537962, z: 1.08778477e-06}
+        outSlope: {x: -1.06096268e-05, y: -.331537962, z: 1.08778477e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte146
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -3.70131946, z: .107970312}
+        inSlope: {x: -1.13248825e-05, y: .372156858, z: 1.28895044e-06}
+        outSlope: {x: -1.13248825e-05, y: .372156858, z: 1.28895044e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721559167, y: -3.3291626, z: .107971601}
+        inSlope: {x: -1.13248825e-05, y: .372156858, z: 1.28895044e-06}
+        outSlope: {x: -1.13248825e-05, y: .372156858, z: 1.28895044e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte145
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -3.70131946, z: .107970312}
+        inSlope: {x: -1.16229057e-05, y: -.291539669, z: 1.37090683e-06}
+        outSlope: {x: -1.16229057e-05, y: -.291539669, z: 1.37090683e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721559465, y: -3.99285913, z: .107971683}
+        inSlope: {x: -1.16229057e-05, y: -.291539669, z: 1.37090683e-06}
+        outSlope: {x: -1.16229057e-05, y: -.291539669, z: 1.37090683e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte144
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -6.03526497, z: .107970312}
+        inSlope: {x: -1.22785568e-05, y: .342027187, z: 1.57207251e-06}
+        outSlope: {x: -1.22785568e-05, y: .342027187, z: 1.57207251e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721560121, y: -5.69323778, z: .107971884}
+        inSlope: {x: -1.22785568e-05, y: .342027187, z: 1.57207251e-06}
+        outSlope: {x: -1.22785568e-05, y: .342027187, z: 1.57207251e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte143
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -6.03526497, z: .107970312}
+        inSlope: {x: -1.257658e-05, y: -.311903477, z: 1.64657831e-06}
+        outSlope: {x: -1.257658e-05, y: -.311903477, z: 1.64657831e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721560419, y: -6.34716845, z: .107971959}
+        inSlope: {x: -1.257658e-05, y: -.311903477, z: 1.64657831e-06}
+        outSlope: {x: -1.257658e-05, y: -.311903477, z: 1.64657831e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte142
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -8.40109921, z: .107970312}
+        inSlope: {x: -1.32918358e-05, y: .352880478, z: 1.84774399e-06}
+        outSlope: {x: -1.32918358e-05, y: .352880478, z: 1.84774399e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721561134, y: -8.04821873, z: .10797216}
+        inSlope: {x: -1.32918358e-05, y: .352880478, z: 1.84774399e-06}
+        outSlope: {x: -1.32918358e-05, y: .352880478, z: 1.84774399e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte140
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.721547842, y: -8.40109921, z: .107970312}
+        inSlope: {x: -1.34706497e-05, y: -.188196182, z: 1.91479921e-06}
+        outSlope: {x: -1.34706497e-05, y: -.188196182, z: 1.91479921e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.721561313, y: -8.58929539, z: .107972227}
+        inSlope: {x: -1.34706497e-05, y: -.188196182, z: 1.91479921e-06}
+        outSlope: {x: -1.34706497e-05, y: -.188196182, z: 1.91479921e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController02/vagon02/PuertaSubte141
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -1.26767695, z: .10796985}
+        inSlope: {x: -2.32458115e-06, y: .354956865, z: 1.4603138e-06}
+        outSlope: {x: -2.32458115e-06, y: .354956865, z: 1.4603138e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714904666, y: -.912720084, z: .107971311}
+        inSlope: {x: -2.32458115e-06, y: .354956865, z: 1.4603138e-06}
+        outSlope: {x: -2.32458115e-06, y: .354956865, z: 1.4603138e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte171
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -1.26767695, z: .10796985}
+        inSlope: {x: -2.14576721e-06, y: -.303429365, z: 1.54227018e-06}
+        outSlope: {x: -2.14576721e-06, y: -.303429365, z: 1.54227018e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714904487, y: -1.57110631, z: .107971393}
+        inSlope: {x: -2.14576721e-06, y: -.303429365, z: 1.54227018e-06}
+        outSlope: {x: -2.14576721e-06, y: -.303429365, z: 1.54227018e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte170
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -3.64104605, z: .10796985}
+        inSlope: {x: -1.60932541e-06, y: .359734297, z: 1.74343586e-06}
+        outSlope: {x: -1.60932541e-06, y: .359734297, z: 1.74343586e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714903951, y: -3.28131175, z: .107971594}
+        inSlope: {x: -1.60932541e-06, y: .359734297, z: 1.74343586e-06}
+        outSlope: {x: -1.60932541e-06, y: .359734297, z: 1.74343586e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte169
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -3.64104605, z: .10796985}
+        inSlope: {x: -1.49011612e-06, y: -.280951738, z: 1.81794167e-06}
+        outSlope: {x: -1.49011612e-06, y: -.280951738, z: 1.81794167e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714903831, y: -3.92199779, z: .107971668}
+        inSlope: {x: -1.49011612e-06, y: -.280951738, z: 1.81794167e-06}
+        outSlope: {x: -1.49011612e-06, y: -.280951738, z: 1.81794167e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte168
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -5.97499132, z: .10796985}
+        inSlope: {x: -8.94069672e-07, y: .307570934, z: 2.02655792e-06}
+        outSlope: {x: -8.94069672e-07, y: .307570934, z: 2.02655792e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714903235, y: -5.66742039, z: .107971877}
+        inSlope: {x: -8.94069672e-07, y: .307570934, z: 2.02655792e-06}
+        outSlope: {x: -8.94069672e-07, y: .307570934, z: 2.02655792e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte167
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -5.97499132, z: .10796985}
+        inSlope: {x: -7.74860382e-07, y: -.289597511, z: 2.10106373e-06}
+        outSlope: {x: -7.74860382e-07, y: -.289597511, z: 2.10106373e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714903116, y: -6.26458883, z: .107971951}
+        inSlope: {x: -7.74860382e-07, y: -.289597511, z: 2.10106373e-06}
+        outSlope: {x: -7.74860382e-07, y: -.289597511, z: 2.10106373e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte166
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -8.34082603, z: .10796985}
+        inSlope: {x: -1.78813934e-07, y: .313176155, z: 2.30967999e-06}
+        outSlope: {x: -1.78813934e-07, y: .313176155, z: 2.30967999e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.71490252, y: -8.02764988, z: .10797216}
+        inSlope: {x: -1.78813934e-07, y: .313176155, z: 2.30967999e-06}
+        outSlope: {x: -1.78813934e-07, y: .313176155, z: 2.30967999e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte164
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.714902341, y: -8.34082603, z: .10796985}
+        inSlope: {x: -5.96046448e-08, y: -.174800873, z: 2.36928463e-06}
+        outSlope: {x: -5.96046448e-08, y: -.174800873, z: 2.36928463e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.714902401, y: -8.51562691, z: .10797222}
+        inSlope: {x: -5.96046448e-08, y: -.174800873, z: 2.36928463e-06}
+        outSlope: {x: -5.96046448e-08, y: -.174800873, z: 2.36928463e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController03/vagon03/PuertaSubte165
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -1.30855715, z: .0907927081}
+        inSlope: {x: -2.25901604e-05, y: .340478718, z: -2.78651714e-06}
+        outSlope: {x: -2.25901604e-05, y: .340478718, z: -2.78651714e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724548936, y: -.968078434, z: .0907899216}
+        inSlope: {x: -2.25901604e-05, y: .340478718, z: -2.78651714e-06}
+        outSlope: {x: -2.25901604e-05, y: .340478718, z: -2.78651714e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte179
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -1.30855715, z: .0907927081}
+        inSlope: {x: -2.28285789e-05, y: -.286474466, z: -2.71201134e-06}
+        outSlope: {x: -2.28285789e-05, y: -.286474466, z: -2.71201134e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724549174, y: -1.59503162, z: .0907899961}
+        inSlope: {x: -2.28285789e-05, y: -.286474466, z: -2.71201134e-06}
+        outSlope: {x: -2.28285789e-05, y: -.286474466, z: -2.71201134e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte178
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -3.68192625, z: .0907927081}
+        inSlope: {x: -2.36034393e-05, y: .343486309, z: -2.50339508e-06}
+        outSlope: {x: -2.36034393e-05, y: .343486309, z: -2.50339508e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724549949, y: -3.33843994, z: .0907902047}
+        inSlope: {x: -2.36034393e-05, y: .343486309, z: -2.50339508e-06}
+        outSlope: {x: -2.36034393e-05, y: .343486309, z: -2.50339508e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte177
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -3.68192625, z: .0907927081}
+        inSlope: {x: -2.38418579e-05, y: -.261006117, z: -2.42888927e-06}
+        outSlope: {x: -2.38418579e-05, y: -.261006117, z: -2.42888927e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724550188, y: -3.94293237, z: .0907902792}
+        inSlope: {x: -2.38418579e-05, y: -.261006117, z: -2.42888927e-06}
+        outSlope: {x: -2.38418579e-05, y: -.261006117, z: -2.42888927e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte176
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -6.01587152, z: .0907927081}
+        inSlope: {x: -2.45571136e-05, y: .290956497, z: -2.22027302e-06}
+        outSlope: {x: -2.45571136e-05, y: .290956497, z: -2.22027302e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724550903, y: -5.72491503, z: .0907904878}
+        inSlope: {x: -2.45571136e-05, y: .290956497, z: -2.22027302e-06}
+        outSlope: {x: -2.45571136e-05, y: .290956497, z: -2.22027302e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte175
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -6.01587152, z: .0907927081}
+        inSlope: {x: -2.47955322e-05, y: -.333555222, z: -2.14576721e-06}
+        outSlope: {x: -2.47955322e-05, y: -.333555222, z: -2.14576721e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724551141, y: -6.34942675, z: .0907905623}
+        inSlope: {x: -2.47955322e-05, y: -.333555222, z: -2.14576721e-06}
+        outSlope: {x: -2.47955322e-05, y: -.333555222, z: -2.14576721e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte174
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -8.38170624, z: .0907927081}
+        inSlope: {x: -2.5510788e-05, y: .343558311, z: -1.94460154e-06}
+        outSlope: {x: -2.5510788e-05, y: .343558311, z: -1.94460154e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724551857, y: -8.03814793, z: .0907907635}
+        inSlope: {x: -2.5510788e-05, y: .343558311, z: -1.94460154e-06}
+        outSlope: {x: -2.5510788e-05, y: .343558311, z: -1.94460154e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte172
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.724526346, y: -8.38170624, z: .0907927081}
+        inSlope: {x: -2.58088112e-05, y: -.292428017, z: -1.87009573e-06}
+        outSlope: {x: -2.58088112e-05, y: -.292428017, z: -1.87009573e-06}
+        tangentMode: -559038737
+      - time: 1
+        value: {x: -.724552155, y: -8.67413425, z: .090790838}
+        inSlope: {x: -2.58088112e-05, y: -.292428017, z: -1.87009573e-06}
+        outSlope: {x: -2.58088112e-05, y: -.292428017, z: -1.87009573e-06}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CoachController04/vagon04/PuertaSubte173
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_MuscleClipInfo:
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -5.60283661e-06
+        outSlope: -5.60283661e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700073957
+        inSlope: -5.60283661e-06
+        outSlope: -5.60283661e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte139
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.50153077
+        inSlope: .312016487
+        outSlope: .312016487
+        tangentMode: 10
+      - time: 1
+        value: -1.18951428
+        inSlope: .312016487
+        outSlope: .312016487
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte139
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.84612179e-06
+        outSlope: -2.84612179e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907899439
+        inSlope: -2.84612179e-06
+        outSlope: -2.84612179e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte139
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -5.78165054e-06
+        outSlope: -5.78165054e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700074136
+        inSlope: -5.78165054e-06
+        outSlope: -5.78165054e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte138
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.50153077
+        inSlope: -.327814817
+        outSlope: -.327814817
+        tangentMode: 10
+      - time: 1
+        value: -1.82934558
+        inSlope: -.327814817
+        outSlope: -.327814817
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte138
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.7641654e-06
+        outSlope: -2.7641654e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907900259
+        inSlope: -2.7641654e-06
+        outSlope: -2.7641654e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte138
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -6.49690628e-06
+        outSlope: -6.49690628e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700074852
+        inSlope: -6.49690628e-06
+        outSlope: -6.49690628e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte137
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.87490201
+        inSlope: .370629311
+        outSlope: .370629311
+        tangentMode: 10
+      - time: 1
+        value: -3.5042727
+        inSlope: .370629311
+        outSlope: .370629311
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte137
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.56299973e-06
+        outSlope: -2.56299973e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907902271
+        inSlope: -2.56299973e-06
+        outSlope: -2.56299973e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte137
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -6.7949295e-06
+        outSlope: -6.7949295e-06
+        tangentMode: 10
+      - time: 1
+        value: -.70007515
+        inSlope: -6.7949295e-06
+        outSlope: -6.7949295e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte136
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.87490201
+        inSlope: -.295020342
+        outSlope: -.295020342
+        tangentMode: 10
+      - time: 1
+        value: -4.16992235
+        inSlope: -.295020342
+        outSlope: -.295020342
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte136
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.48849392e-06
+        outSlope: -2.48849392e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907903016
+        inSlope: -2.48849392e-06
+        outSlope: -2.48849392e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte136
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -7.4505806e-06
+        outSlope: -7.4505806e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700075805
+        inSlope: -7.4505806e-06
+        outSlope: -7.4505806e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte135
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.20884895
+        inSlope: .384751797
+        outSlope: .384751797
+        tangentMode: 10
+      - time: 1
+        value: -5.82409716
+        inSlope: .384751797
+        outSlope: .384751797
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte135
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.28732824e-06
+        outSlope: -2.28732824e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907905027
+        inSlope: -2.28732824e-06
+        outSlope: -2.28732824e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte135
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -7.74860382e-06
+        outSlope: -7.74860382e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700076103
+        inSlope: -7.74860382e-06
+        outSlope: -7.74860382e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte134
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.20884895
+        inSlope: -.31825161
+        outSlope: -.31825161
+        tangentMode: 10
+      - time: 1
+        value: -6.52710056
+        inSlope: -.31825161
+        outSlope: -.31825161
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte134
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.20537186e-06
+        outSlope: -2.20537186e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907905847
+        inSlope: -2.20537186e-06
+        outSlope: -2.20537186e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte134
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -8.46385956e-06
+        outSlope: -8.46385956e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700076818
+        inSlope: -8.46385956e-06
+        outSlope: -8.46385956e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte132
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.5746851
+        inSlope: .385475159
+        outSlope: .385475159
+        tangentMode: 10
+      - time: 1
+        value: -8.18920994
+        inSlope: .385475159
+        outSlope: .385475159
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte132
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -2.01165676e-06
+        outSlope: -2.01165676e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907907784
+        inSlope: -2.01165676e-06
+        outSlope: -2.01165676e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte132
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.700068355
+        inSlope: -8.76188278e-06
+        outSlope: -8.76188278e-06
+        tangentMode: 10
+      - time: 1
+        value: -.700077116
+        inSlope: -8.76188278e-06
+        outSlope: -8.76188278e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController01/vagon01/PuertaSubte133
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.5746851
+        inSlope: -.310325623
+        outSlope: -.310325623
+        tangentMode: 10
+      - time: 1
+        value: -8.88501072
+        inSlope: -.310325623
+        outSlope: -.310325623
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController01/vagon01/PuertaSubte133
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927901
+        inSlope: -1.92224979e-06
+        outSlope: -1.92224979e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907908678
+        inSlope: -1.92224979e-06
+        outSlope: -1.92224979e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController01/vagon01/PuertaSubte133
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.03712082e-05
+        outSlope: -1.03712082e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721558213
+        inSlope: -1.03712082e-05
+        outSlope: -1.03712082e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte147
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.32794678
+        inSlope: .347722113
+        outSlope: .347722113
+        tangentMode: 10
+      - time: 1
+        value: -.980224669
+        inSlope: .347722113
+        outSlope: .347722113
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte147
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.00582838e-06
+        outSlope: 1.00582838e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971318
+        inSlope: 1.00582838e-06
+        outSlope: 1.00582838e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte147
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.06096268e-05
+        outSlope: -1.06096268e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721558452
+        inSlope: -1.06096268e-05
+        outSlope: -1.06096268e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte146
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.32794678
+        inSlope: -.331537962
+        outSlope: -.331537962
+        tangentMode: 10
+      - time: 1
+        value: -1.65948474
+        inSlope: -.331537962
+        outSlope: -.331537962
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte146
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.08778477e-06
+        outSlope: 1.08778477e-06
+        tangentMode: 10
+      - time: 1
+        value: .1079714
+        inSlope: 1.08778477e-06
+        outSlope: 1.08778477e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte146
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.13248825e-05
+        outSlope: -1.13248825e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721559167
+        inSlope: -1.13248825e-05
+        outSlope: -1.13248825e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte145
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.70131946
+        inSlope: .372156858
+        outSlope: .372156858
+        tangentMode: 10
+      - time: 1
+        value: -3.3291626
+        inSlope: .372156858
+        outSlope: .372156858
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte145
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.28895044e-06
+        outSlope: 1.28895044e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971601
+        inSlope: 1.28895044e-06
+        outSlope: 1.28895044e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte145
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.16229057e-05
+        outSlope: -1.16229057e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721559465
+        inSlope: -1.16229057e-05
+        outSlope: -1.16229057e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte144
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.70131946
+        inSlope: -.291539669
+        outSlope: -.291539669
+        tangentMode: 10
+      - time: 1
+        value: -3.99285913
+        inSlope: -.291539669
+        outSlope: -.291539669
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte144
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.37090683e-06
+        outSlope: 1.37090683e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971683
+        inSlope: 1.37090683e-06
+        outSlope: 1.37090683e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte144
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.22785568e-05
+        outSlope: -1.22785568e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721560121
+        inSlope: -1.22785568e-05
+        outSlope: -1.22785568e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte143
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.03526497
+        inSlope: .342027187
+        outSlope: .342027187
+        tangentMode: 10
+      - time: 1
+        value: -5.69323778
+        inSlope: .342027187
+        outSlope: .342027187
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte143
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.57207251e-06
+        outSlope: 1.57207251e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971884
+        inSlope: 1.57207251e-06
+        outSlope: 1.57207251e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte143
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.257658e-05
+        outSlope: -1.257658e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721560419
+        inSlope: -1.257658e-05
+        outSlope: -1.257658e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte142
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.03526497
+        inSlope: -.311903477
+        outSlope: -.311903477
+        tangentMode: 10
+      - time: 1
+        value: -6.34716845
+        inSlope: -.311903477
+        outSlope: -.311903477
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte142
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.64657831e-06
+        outSlope: 1.64657831e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971959
+        inSlope: 1.64657831e-06
+        outSlope: 1.64657831e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte142
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.32918358e-05
+        outSlope: -1.32918358e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721561134
+        inSlope: -1.32918358e-05
+        outSlope: -1.32918358e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte140
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.40109921
+        inSlope: .352880478
+        outSlope: .352880478
+        tangentMode: 10
+      - time: 1
+        value: -8.04821873
+        inSlope: .352880478
+        outSlope: .352880478
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte140
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.84774399e-06
+        outSlope: 1.84774399e-06
+        tangentMode: 10
+      - time: 1
+        value: .10797216
+        inSlope: 1.84774399e-06
+        outSlope: 1.84774399e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte140
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.721547842
+        inSlope: -1.34706497e-05
+        outSlope: -1.34706497e-05
+        tangentMode: 10
+      - time: 1
+        value: -.721561313
+        inSlope: -1.34706497e-05
+        outSlope: -1.34706497e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController02/vagon02/PuertaSubte141
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.40109921
+        inSlope: -.188196182
+        outSlope: -.188196182
+        tangentMode: 10
+      - time: 1
+        value: -8.58929539
+        inSlope: -.188196182
+        outSlope: -.188196182
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController02/vagon02/PuertaSubte141
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .107970312
+        inSlope: 1.91479921e-06
+        outSlope: 1.91479921e-06
+        tangentMode: 10
+      - time: 1
+        value: .107972227
+        inSlope: 1.91479921e-06
+        outSlope: 1.91479921e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController02/vagon02/PuertaSubte141
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -2.32458115e-06
+        outSlope: -2.32458115e-06
+        tangentMode: 10
+      - time: 1
+        value: -.714904666
+        inSlope: -2.32458115e-06
+        outSlope: -2.32458115e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte171
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.26767695
+        inSlope: .354956865
+        outSlope: .354956865
+        tangentMode: 10
+      - time: 1
+        value: -.912720084
+        inSlope: .354956865
+        outSlope: .354956865
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte171
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 1.4603138e-06
+        outSlope: 1.4603138e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971311
+        inSlope: 1.4603138e-06
+        outSlope: 1.4603138e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte171
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -2.14576721e-06
+        outSlope: -2.14576721e-06
+        tangentMode: 10
+      - time: 1
+        value: -.714904487
+        inSlope: -2.14576721e-06
+        outSlope: -2.14576721e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte170
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.26767695
+        inSlope: -.303429365
+        outSlope: -.303429365
+        tangentMode: 10
+      - time: 1
+        value: -1.57110631
+        inSlope: -.303429365
+        outSlope: -.303429365
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte170
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 1.54227018e-06
+        outSlope: 1.54227018e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971393
+        inSlope: 1.54227018e-06
+        outSlope: 1.54227018e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte170
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -1.60932541e-06
+        outSlope: -1.60932541e-06
+        tangentMode: 10
+      - time: 1
+        value: -.714903951
+        inSlope: -1.60932541e-06
+        outSlope: -1.60932541e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte169
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.64104605
+        inSlope: .359734297
+        outSlope: .359734297
+        tangentMode: 10
+      - time: 1
+        value: -3.28131175
+        inSlope: .359734297
+        outSlope: .359734297
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte169
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 1.74343586e-06
+        outSlope: 1.74343586e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971594
+        inSlope: 1.74343586e-06
+        outSlope: 1.74343586e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte169
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -1.49011612e-06
+        outSlope: -1.49011612e-06
+        tangentMode: 10
+      - time: 1
+        value: -.714903831
+        inSlope: -1.49011612e-06
+        outSlope: -1.49011612e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte168
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.64104605
+        inSlope: -.280951738
+        outSlope: -.280951738
+        tangentMode: 10
+      - time: 1
+        value: -3.92199779
+        inSlope: -.280951738
+        outSlope: -.280951738
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte168
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 1.81794167e-06
+        outSlope: 1.81794167e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971668
+        inSlope: 1.81794167e-06
+        outSlope: 1.81794167e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte168
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -8.94069672e-07
+        outSlope: -8.94069672e-07
+        tangentMode: 10
+      - time: 1
+        value: -.714903235
+        inSlope: -8.94069672e-07
+        outSlope: -8.94069672e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte167
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -5.97499132
+        inSlope: .307570934
+        outSlope: .307570934
+        tangentMode: 10
+      - time: 1
+        value: -5.66742039
+        inSlope: .307570934
+        outSlope: .307570934
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte167
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 2.02655792e-06
+        outSlope: 2.02655792e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971877
+        inSlope: 2.02655792e-06
+        outSlope: 2.02655792e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte167
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -7.74860382e-07
+        outSlope: -7.74860382e-07
+        tangentMode: 10
+      - time: 1
+        value: -.714903116
+        inSlope: -7.74860382e-07
+        outSlope: -7.74860382e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte166
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -5.97499132
+        inSlope: -.289597511
+        outSlope: -.289597511
+        tangentMode: 10
+      - time: 1
+        value: -6.26458883
+        inSlope: -.289597511
+        outSlope: -.289597511
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte166
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 2.10106373e-06
+        outSlope: 2.10106373e-06
+        tangentMode: 10
+      - time: 1
+        value: .107971951
+        inSlope: 2.10106373e-06
+        outSlope: 2.10106373e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte166
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -1.78813934e-07
+        outSlope: -1.78813934e-07
+        tangentMode: 10
+      - time: 1
+        value: -.71490252
+        inSlope: -1.78813934e-07
+        outSlope: -1.78813934e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte164
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.34082603
+        inSlope: .313176155
+        outSlope: .313176155
+        tangentMode: 10
+      - time: 1
+        value: -8.02764988
+        inSlope: .313176155
+        outSlope: .313176155
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte164
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 2.30967999e-06
+        outSlope: 2.30967999e-06
+        tangentMode: 10
+      - time: 1
+        value: .10797216
+        inSlope: 2.30967999e-06
+        outSlope: 2.30967999e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte164
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.714902341
+        inSlope: -5.96046448e-08
+        outSlope: -5.96046448e-08
+        tangentMode: 10
+      - time: 1
+        value: -.714902401
+        inSlope: -5.96046448e-08
+        outSlope: -5.96046448e-08
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController03/vagon03/PuertaSubte165
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.34082603
+        inSlope: -.174800873
+        outSlope: -.174800873
+        tangentMode: 10
+      - time: 1
+        value: -8.51562691
+        inSlope: -.174800873
+        outSlope: -.174800873
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController03/vagon03/PuertaSubte165
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .10796985
+        inSlope: 2.36928463e-06
+        outSlope: 2.36928463e-06
+        tangentMode: 10
+      - time: 1
+        value: .10797222
+        inSlope: 2.36928463e-06
+        outSlope: 2.36928463e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController03/vagon03/PuertaSubte165
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.25901604e-05
+        outSlope: -2.25901604e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724548936
+        inSlope: -2.25901604e-05
+        outSlope: -2.25901604e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte179
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.30855715
+        inSlope: .340478718
+        outSlope: .340478718
+        tangentMode: 10
+      - time: 1
+        value: -.968078434
+        inSlope: .340478718
+        outSlope: .340478718
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte179
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -2.78651714e-06
+        outSlope: -2.78651714e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907899216
+        inSlope: -2.78651714e-06
+        outSlope: -2.78651714e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte179
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.28285789e-05
+        outSlope: -2.28285789e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724549174
+        inSlope: -2.28285789e-05
+        outSlope: -2.28285789e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte178
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.30855715
+        inSlope: -.286474466
+        outSlope: -.286474466
+        tangentMode: 10
+      - time: 1
+        value: -1.59503162
+        inSlope: -.286474466
+        outSlope: -.286474466
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte178
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -2.71201134e-06
+        outSlope: -2.71201134e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907899961
+        inSlope: -2.71201134e-06
+        outSlope: -2.71201134e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte178
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.36034393e-05
+        outSlope: -2.36034393e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724549949
+        inSlope: -2.36034393e-05
+        outSlope: -2.36034393e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte177
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.68192625
+        inSlope: .343486309
+        outSlope: .343486309
+        tangentMode: 10
+      - time: 1
+        value: -3.33843994
+        inSlope: .343486309
+        outSlope: .343486309
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte177
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -2.50339508e-06
+        outSlope: -2.50339508e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907902047
+        inSlope: -2.50339508e-06
+        outSlope: -2.50339508e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte177
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.38418579e-05
+        outSlope: -2.38418579e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724550188
+        inSlope: -2.38418579e-05
+        outSlope: -2.38418579e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte176
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -3.68192625
+        inSlope: -.261006117
+        outSlope: -.261006117
+        tangentMode: 10
+      - time: 1
+        value: -3.94293237
+        inSlope: -.261006117
+        outSlope: -.261006117
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte176
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -2.42888927e-06
+        outSlope: -2.42888927e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907902792
+        inSlope: -2.42888927e-06
+        outSlope: -2.42888927e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte176
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.45571136e-05
+        outSlope: -2.45571136e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724550903
+        inSlope: -2.45571136e-05
+        outSlope: -2.45571136e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte175
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.01587152
+        inSlope: .290956497
+        outSlope: .290956497
+        tangentMode: 10
+      - time: 1
+        value: -5.72491503
+        inSlope: .290956497
+        outSlope: .290956497
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte175
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -2.22027302e-06
+        outSlope: -2.22027302e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907904878
+        inSlope: -2.22027302e-06
+        outSlope: -2.22027302e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte175
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.47955322e-05
+        outSlope: -2.47955322e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724551141
+        inSlope: -2.47955322e-05
+        outSlope: -2.47955322e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte174
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.01587152
+        inSlope: -.333555222
+        outSlope: -.333555222
+        tangentMode: 10
+      - time: 1
+        value: -6.34942675
+        inSlope: -.333555222
+        outSlope: -.333555222
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte174
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -2.14576721e-06
+        outSlope: -2.14576721e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907905623
+        inSlope: -2.14576721e-06
+        outSlope: -2.14576721e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte174
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.5510788e-05
+        outSlope: -2.5510788e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724551857
+        inSlope: -2.5510788e-05
+        outSlope: -2.5510788e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte172
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.38170624
+        inSlope: .343558311
+        outSlope: .343558311
+        tangentMode: 10
+      - time: 1
+        value: -8.03814793
+        inSlope: .343558311
+        outSlope: .343558311
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte172
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -1.94460154e-06
+        outSlope: -1.94460154e-06
+        tangentMode: 10
+      - time: 1
+        value: .0907907635
+        inSlope: -1.94460154e-06
+        outSlope: -1.94460154e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte172
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.724526346
+        inSlope: -2.58088112e-05
+        outSlope: -2.58088112e-05
+        tangentMode: 10
+      - time: 1
+        value: -.724552155
+        inSlope: -2.58088112e-05
+        outSlope: -2.58088112e-05
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: CoachController04/vagon04/PuertaSubte173
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -8.38170624
+        inSlope: -.292428017
+        outSlope: -.292428017
+        tangentMode: 10
+      - time: 1
+        value: -8.67413425
+        inSlope: -.292428017
+        outSlope: -.292428017
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: CoachController04/vagon04/PuertaSubte173
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0907927081
+        inSlope: -1.87009573e-06
+        outSlope: -1.87009573e-06
+        tangentMode: 10
+      - time: 1
+        value: .090790838
+        inSlope: -1.87009573e-06
+        outSlope: -1.87009573e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CoachController04/vagon04/PuertaSubte173
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []
